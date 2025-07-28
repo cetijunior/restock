@@ -1,0 +1,1517 @@
+[
+  {
+    "name": " Marlboro Blu 4",
+    "sell_price": 370,
+    "buy_price": 350
+  },
+  {
+    "name": "Marlboro e Zeze",
+    "sell_price": 550,
+    "buy_price": 480
+  },
+  {
+    "name": "Lucky Strike",
+    "sell_price": 280,
+    "buy_price": 250
+  },
+  {
+    "name": "Slims Eva",
+    "sell_price": 260,
+    "buy_price": 240
+  },
+  {
+    "name": "Philip 4",
+    "sell_price": 300,
+    "buy_price": 270
+  },
+  {
+    "name": "Philip 6",
+    "sell_price": 300,
+    "buy_price": 270
+  },
+  {
+    "name": "Slims Gold",
+    "sell_price": 320,
+    "buy_price": 295
+  },
+  {
+    "name": "Philip Normal",
+    "sell_price": 310,
+    "buy_price": 290
+  },
+  {
+    "name": "Dunhill",
+    "sell_price": 400,
+    "buy_price": 380
+  },
+  {
+    "name": "Winston Blu",
+    "sell_price": 310,
+    "buy_price": 285
+  },
+  {
+    "name": "Winston Gri",
+    "sell_price": 280,
+    "buy_price": 260
+  },
+  {
+    "name": "Marlboro Kuqe",
+    "sell_price": 400,
+    "buy_price": 380
+  },
+  {
+    "name": "Marlboro Gold",
+    "sell_price": 400,
+    "buy_price": 380
+  },
+  {
+    "name": "Karrelia Kuqe",
+    "sell_price": 260,
+    "buy_price": 240
+  },
+  {
+    "name": "Lexhera",
+    "sell_price": 310,
+    "buy_price": 280
+  },
+  {
+    "name": "Marlboro 6",
+    "sell_price": 370,
+    "buy_price": 350
+  },
+  {
+    "name": "Orbit",
+    "sell_price": 60,
+    "buy_price": 40
+  },
+  {
+    "name": "Orbit pako",
+    "sell_price": 280,
+    "buy_price": 250
+  },
+  {
+    "name": "Shkrepse",
+    "sell_price": 50,
+    "buy_price": 30
+  },
+  {
+    "name": "Cumcakiz vipa",
+    "sell_price": 20,
+    "buy_price": 15
+  },
+  {
+    "name": "Guri I Zi",
+    "sell_price": 350,
+    "buy_price": 330
+  },
+  {
+    "name": "Cakmak Bic",
+    "sell_price": 60,
+    "buy_price": 40
+  },
+  {
+    "name": "Cakmak I Thjesht",
+    "sell_price": 50,
+    "buy_price": 30
+  },
+  {
+    "name": "Ocb",
+    "sell_price": 60,
+    "buy_price": 40
+  },
+  {
+    "name": "Rizla",
+    "sell_price": 120,
+    "buy_price": 80
+  },
+  {
+    "name": "Letra Duhani",
+    "sell_price": 60,
+    "buy_price": 40
+  },
+  {
+    "name": "Grand I Gatshem",
+    "sell_price": 150,
+    "buy_price": 130
+  },
+  {
+    "name": "Grand I holle",
+    "sell_price": 150,
+    "buy_price": 130
+  },
+  {
+    "name": "Grand I trashe",
+    "sell_price": 130,
+    "buy_price": 110
+  },
+  {
+    "name": "Shtupa",
+    "sell_price": 250,
+    "buy_price": 200
+  },
+  {
+    "name": "Pipa",
+    "sell_price": 70,
+    "buy_price": 50
+  },
+  {
+    "name": "Sfungjer 1+1",
+    "sell_price": 70,
+    "buy_price": 50
+  },
+  {
+    "name": "Sfungjer I thjeshte",
+    "sell_price": 10,
+    "buy_price": 8
+  },
+  {
+    "name": "Tel enesh",
+    "sell_price": 30,
+    "buy_price": 20
+  },
+  {
+    "name": "Drago",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Qirinj",
+    "sell_price": 25,
+    "buy_price": 18
+  },
+  {
+    "name": "Kunja veshesh",
+    "sell_price": 80,
+    "buy_price": 60
+  },
+  {
+    "name": "Kunja dhembesh",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Doreza pune",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Atak I vogel",
+    "sell_price": 30,
+    "buy_price": 25
+  },
+  {
+    "name": "Atak I madh",
+    "sell_price": 50,
+    "buy_price": 30
+  },
+  {
+    "name": "Big astor",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Big gillete",
+    "sell_price": 360,
+    "buy_price": 270
+  },
+  {
+    "name": "Petal e vogel",
+    "sell_price": 20,
+    "buy_price": 15
+  },
+  {
+    "name": "Brisk astra",
+    "sell_price": 50,
+    "buy_price": 40
+  },
+  {
+    "name": "Boje kepucesh",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Prerse thonjsh e vogel",
+    "sell_price": 50,
+    "buy_price": 40
+  },
+  {
+    "name": "Prerse thonjsh e madhe",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Bateri toshiba te vogla",
+    "sell_price": 50,
+    "buy_price": 25
+  },
+  {
+    "name": "Bateri toshiba te medha",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Vere e kuqe Kantina Juli",
+    "sell_price": 600,
+    "buy_price": 460
+  },
+  {
+    "name": "Fshesa",
+    "sell_price": 250,
+    "buy_price": 200
+  },
+  {
+    "name": "Bisht I kuq",
+    "sell_price": 130,
+    "buy_price": 100
+  },
+  {
+    "name": "Bisht I holl",
+    "sell_price": 130,
+    "buy_price": 100
+  },
+  {
+    "name": "Fresh per banjo",
+    "sell_price": 220,
+    "buy_price": 180
+  },
+  {
+    "name": "Head and shoulder",
+    "sell_price": 380,
+    "buy_price": 330
+  },
+  {
+    "name": "Wash and go vogel",
+    "sell_price": 260,
+    "buy_price": 220
+  },
+  {
+    "name": "Wash and go e madhe",
+    "sell_price": 360,
+    "buy_price": 300
+  },
+  {
+    "name": "Palmolive",
+    "sell_price": 170,
+    "buy_price": 130
+  },
+  {
+    "name": "Dimension",
+    "sell_price": 160,
+    "buy_price": 130
+  },
+  {
+    "name": "Ultrex",
+    "sell_price": 350,
+    "buy_price": 300
+  },
+  {
+    "name": "Panten i vogel",
+    "sell_price": 380,
+    "buy_price": 320
+  },
+  {
+    "name": "Panten i madh",
+    "sell_price": 550,
+    "buy_price": 500
+  },
+  {
+    "name": "Johnson I vogel",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Krem gaia",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Ilac mizash I vogel",
+    "sell_price": 180,
+    "buy_price": 140
+  },
+  {
+    "name": "Ilac mizash I madh",
+    "sell_price": 220,
+    "buy_price": 170
+  },
+  {
+    "name": "Skoc I madh",
+    "sell_price": 70,
+    "buy_price": 50
+  },
+  {
+    "name": "Skoc I vogel",
+    "sell_price": 50,
+    "buy_price": 30
+  },
+  {
+    "name": "Izolant I zi",
+    "sell_price": 50,
+    "buy_price": 40
+  },
+  {
+    "name": "Bombula gazi elka",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Dorreza llastiku",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Gota plastike",
+    "sell_price": 100,
+    "buy_price": 62
+  },
+  {
+    "name": "Gota kafeje",
+    "sell_price": 100,
+    "buy_price": 62
+  },
+  {
+    "name": "Leter plastike rimmed",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Leter alumini rimmed",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Leter pjekje rimmed",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Sapun duru",
+    "sell_price": 220,
+    "buy_price": 142
+  },
+  {
+    "name": "Sapun palmolive",
+    "sell_price": 60,
+    "buy_price": 40
+  },
+  {
+    "name": "Sapun dove",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Letra tlagura te medhaja",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Letra te lagura te vogla",
+    "sell_price": 40,
+    "buy_price": 20
+  },
+  {
+    "name": "Lines everyday",
+    "sell_price": 170,
+    "buy_price": 135
+  },
+  {
+    "name": "Kana",
+    "sell_price": 50,
+    "buy_price": 30
+  },
+  {
+    "name": "Disar sunscream",
+    "sell_price": 700,
+    "buy_price": 550
+  },
+  {
+    "name": "Nivea black and white sprite",
+    "sell_price": 320,
+    "buy_price": 270
+  },
+  {
+    "name": "Nivea black and white rul",
+    "sell_price": 350,
+    "buy_price": 320
+  },
+  {
+    "name": "Axe",
+    "sell_price": 300,
+    "buy_price": 250
+  },
+  {
+    "name": "Sapun dermomed",
+    "sell_price": 240,
+    "buy_price": 180
+  },
+  {
+    "name": "Sapun rimmed",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Sapun liquido",
+    "sell_price": 160,
+    "buy_price": 125
+  },
+  {
+    "name": "Abc 3 kg",
+    "sell_price": 500,
+    "buy_price": 420
+  },
+  {
+    "name": "Bingo 3kg",
+    "sell_price": 520,
+    "buy_price": 400
+  },
+  {
+    "name": "Detergjend alpha",
+    "sell_price": 600,
+    "buy_price": 520
+  },
+  {
+    "name": "Deka vogel lavatrice",
+    "sell_price": 230,
+    "buy_price": 200
+  },
+  {
+    "name": "Deka dore",
+    "sell_price": 130,
+    "buy_price": 95
+  },
+  {
+    "name": "Ace blu e madhe",
+    "sell_price": 320,
+    "buy_price": 290
+  },
+  {
+    "name": "Ace blu e vogel",
+    "sell_price": 110,
+    "buy_price": 70
+  },
+  {
+    "name": "Acit I kuq",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Puliorapid",
+    "sell_price": 290,
+    "buy_price": 240
+  },
+  {
+    "name": "Lenor I madh",
+    "sell_price": 500,
+    "buy_price": 400
+  },
+  {
+    "name": "Lenor I vogel",
+    "sell_price": 400,
+    "buy_price": 300
+  },
+  {
+    "name": "Semana",
+    "sell_price": 500,
+    "buy_price": 420
+  },
+  {
+    "name": "Ajax pllakash",
+    "sell_price": 220,
+    "buy_price": 160
+  },
+  {
+    "name": "Ajax xhamash",
+    "sell_price": 250,
+    "buy_price": 170
+  },
+  {
+    "name": "Mastro lindo",
+    "sell_price": 220,
+    "buy_price": 170
+  },
+  {
+    "name": "Melias grasatore",
+    "sell_price": 320,
+    "buy_price": 260
+  },
+  {
+    "name": "Fairy I madh",
+    "sell_price": 250,
+    "buy_price": 210
+  },
+  {
+    "name": "Fairy I vogel",
+    "sell_price": 160,
+    "buy_price": 110
+  },
+  {
+    "name": "Test enesh",
+    "sell_price": 80,
+    "buy_price": 40
+  },
+  {
+    "name": "Gurabie te bardha",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Gurabie te kuqe",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Biskota tagani",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Biskota tagani te medhaja",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Llokume suxhuk",
+    "sell_price": 320,
+    "buy_price": 280
+  },
+  {
+    "name": "Rafaelo kuti",
+    "sell_price": 450,
+    "buy_price": 400
+  },
+  {
+    "name": "Biskota bebi",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Mix magic",
+    "sell_price": 180,
+    "buy_price": 150
+  },
+  {
+    "name": "Llokume me arra",
+    "sell_price": 150,
+    "buy_price": 100
+  },
+  {
+    "name": "Dolce mia",
+    "sell_price": 120,
+    "buy_price": 80
+  },
+  {
+    "name": "kek big roll",
+    "sell_price": 120,
+    "buy_price": 80
+  },
+  {
+    "name": "Karramele me xhel",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Karramele te lira",
+    "sell_price": 120,
+    "buy_price": 80
+  },
+  {
+    "name": "Kadaif I lire",
+    "sell_price": 180,
+    "buy_price": 140
+  },
+  {
+    "name": "Kadaif me peta",
+    "sell_price": 250,
+    "buy_price": 200
+  },
+  {
+    "name": "Miell universal",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Miell prima",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Miell diamand",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Miell ola",
+    "sell_price": 130,
+    "buy_price": 100
+  },
+  {
+    "name": "Sheqer king",
+    "sell_price": 100,
+    "buy_price": 80
+  },
+  {
+    "name": "Niseshte teuta",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Trahana",
+    "sell_price": 80,
+    "buy_price": 60
+  },
+  {
+    "name": "Misir",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Grure",
+    "sell_price": 100,
+    "buy_price": 60
+  },
+  {
+    "name": "Kafe millenium",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Lori kafe",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Mulliri vjeter",
+    "sell_price": 150,
+    "buy_price": 130
+  },
+  {
+    "name": "Kafe Paskalin",
+    "sell_price": 140,
+    "buy_price": 120
+  },
+  {
+    "name": "Kafe Pazari I ri",
+    "sell_price": 110,
+    "buy_price": 85
+  },
+  {
+    "name": "Krip e bardhe",
+    "sell_price": 30,
+    "buy_price": 20
+  },
+  {
+    "name": "Krip e zeze",
+    "sell_price": 30,
+    "buy_price": 20
+  },
+  {
+    "name": "Bravo molle kanace",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Bravo pjeshke kanace",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Bravo rrushi kanace",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Kola kanace",
+    "sell_price": 90,
+    "buy_price": 60
+  },
+  {
+    "name": "Fanta ekzotik kanace",
+    "sell_price": 90,
+    "buy_price": 60
+  },
+  {
+    "name": "Fanta portokall kanace",
+    "sell_price": 90,
+    "buy_price": 60
+  },
+  {
+    "name": "B52",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Golden eagle",
+    "sell_price": 80,
+    "buy_price": 50
+  },
+  {
+    "name": "Ivi kajsi kanace",
+    "sell_price": 80,
+    "buy_price": 55
+  },
+  {
+    "name": "Limon soda",
+    "sell_price": 80,
+    "buy_price": 55
+  },
+  {
+    "name": "Orange soda",
+    "sell_price": 80,
+    "buy_price": 55
+  },
+  {
+    "name": "Kafe e fohte nescafe",
+    "sell_price": 170,
+    "buy_price": 130
+  },
+  {
+    "name": "Red bull",
+    "sell_price": 170,
+    "buy_price": 106
+  },
+  {
+    "name": "Pitbull I vogel",
+    "sell_price": 50,
+    "buy_price": 35
+  },
+  {
+    "name": "Caj San Bendeto I Vogel",
+    "sell_price": 80,
+    "buy_price": 60
+  },
+  {
+    "name": "Caj San Bendeto I Madh",
+    "sell_price": 130,
+    "buy_price": 90
+  },
+  {
+    "name": "Sola kanace",
+    "sell_price": 70,
+    "buy_price": 50
+  },
+  {
+    "name": "Sola 0.5",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Sola 1.5",
+    "sell_price": 160,
+    "buy_price": 130
+  },
+  {
+    "name": "Amita Qershi e vogel",
+    "sell_price": 70,
+    "buy_price": 54
+  },
+  {
+    "name": "Amita Pjeshke e vogel",
+    "sell_price": 70,
+    "buy_price": 54
+  },
+  {
+    "name": "Amita Pjeshke e madhe",
+    "sell_price": 180,
+    "buy_price": 155
+  },
+  {
+    "name": "Amita Qershi e madhe",
+    "sell_price": 180,
+    "buy_price": 155
+  },
+  {
+    "name": "Amita Santa e madhe",
+    "sell_price": 200,
+    "buy_price": 170
+  },
+  {
+    "name": "Fresh Kola",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Rico Fresh",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Fresh Limon",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Go +",
+    "sell_price": 70,
+    "buy_price": 50
+  },
+  {
+    "name": "Uje 0.5",
+    "sell_price": 50,
+    "buy_price": 25
+  },
+  {
+    "name": "Uje 1.5",
+    "sell_price": 70,
+    "buy_price": 45
+  },
+  {
+    "name": "Uje I Gazuar 0.5",
+    "sell_price": 50,
+    "buy_price": 28
+  },
+  {
+    "name": "Uje I Gazuar 1.5",
+    "sell_price": 70,
+    "buy_price": 55
+  },
+  {
+    "name": "Milka",
+    "sell_price": 140,
+    "buy_price": 125
+  },
+  {
+    "name": "Kakao e thjesht",
+    "sell_price": 100,
+    "buy_price": 70
+  },
+  {
+    "name": "Vaj Olim",
+    "sell_price": 210,
+    "buy_price": 190
+  },
+  {
+    "name": "Vaj Floriol",
+    "sell_price": 220,
+    "buy_price": 200
+  },
+  {
+    "name": "Sallate Turshi e madhe",
+    "sell_price": 320,
+    "buy_price": 270
+  },
+  {
+    "name": "Sallate Turshi e vogel",
+    "sell_price": 170,
+    "buy_price": 140
+  },
+  {
+    "name": "Kastravec Turshi I madh",
+    "sell_price": 400,
+    "buy_price": 320
+  },
+  {
+    "name": "Kastravec Turshi I vogel",
+    "sell_price": 170,
+    "buy_price": 140
+  },
+  {
+    "name": "Spec Marinade e madhe",
+    "sell_price": 400,
+    "buy_price": 320
+  },
+  {
+    "name": "Spec Marinade e vogel",
+    "sell_price": 170,
+    "buy_price": 140
+  },
+  {
+    "name": "Cokokrem Daily",
+    "sell_price": 220,
+    "buy_price": 180
+  },
+  {
+    "name": "Nutella 400g",
+    "sell_price": 380,
+    "buy_price": 310
+  },
+  {
+    "name": "Bitao",
+    "sell_price": 170,
+    "buy_price": 140
+  },
+  {
+    "name": "Spec djeges",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Krem karamel",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Qumesht panda",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Hopla",
+    "sell_price": 260,
+    "buy_price": 210
+  },
+  {
+    "name": "Miser I koncervuar",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Koncerva peshku",
+    "sell_price": 100,
+    "buy_price": 60
+  },
+  {
+    "name": "Ton I koncervuar",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Koncerva vici",
+    "sell_price": 380,
+    "buy_price": 330
+  },
+  {
+    "name": "Majonez",
+    "sell_price": 360,
+    "buy_price": 310
+  },
+  {
+    "name": "Jufka",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Cibuk prima",
+    "sell_price": 40,
+    "buy_price": 25
+  },
+  {
+    "name": "Cibuk crax",
+    "sell_price": 30,
+    "buy_price": 25
+  },
+  {
+    "name": "Kubeti",
+    "sell_price": 40,
+    "buy_price": 30
+  },
+  {
+    "name": "Kinder i vogel",
+    "sell_price": 80,
+    "buy_price": 70
+  },
+  {
+    "name": "Patatina reply",
+    "sell_price": 20,
+    "buy_price": 15
+  },
+  {
+    "name": "Vipa 3+",
+    "sell_price": 100,
+    "buy_price": 88
+  },
+  {
+    "name": "Vipa 20g",
+    "sell_price": 20,
+    "buy_price": 16
+  },
+  {
+    "name": "Patatina Brrr",
+    "sell_price": 20,
+    "buy_price": 16
+  },
+  {
+    "name": "Top futbolli",
+    "sell_price": 500,
+    "buy_price": 350
+  },
+  {
+    "name": "Top Volejbolli",
+    "sell_price": 500,
+    "buy_price": 350
+  },
+  {
+    "name": "Peroni",
+    "sell_price": 120,
+    "buy_price": 89
+  },
+  {
+    "name": "Heineken",
+    "sell_price": 140,
+    "buy_price": 115
+  },
+  {
+    "name": "Peja",
+    "sell_price": 100,
+    "buy_price": 80
+  },
+  {
+    "name": "Elbar",
+    "sell_price": 110,
+    "buy_price": 83
+  },
+  {
+    "name": "Qeruese Perimesh",
+    "sell_price": 120,
+    "buy_price": 90
+  },
+  {
+    "name": "Furce Rroje",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Kapse Rrobash",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": " Kapse Rrobash Piaza Plastico",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Petrogaz Rimmed",
+    "sell_price": 1000,
+    "buy_price": 850
+  },
+  {
+    "name": "Llampa Rimmed te mdhaja",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Llampa Rimmed te vogla",
+    "sell_price": 230,
+    "buy_price": 200
+  },
+  {
+    "name": "Llampa Alb",
+    "sell_price": 180,
+    "buy_price": 150
+  },
+  {
+    "name": "Calgon",
+    "sell_price": 430,
+    "buy_price": 370
+  },
+  {
+    "name": "Vanish Roze",
+    "sell_price": 400,
+    "buy_price": 320
+  },
+  {
+    "name": "Furce Dhembesh Codor",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Colgate Max Fresh",
+    "sell_price": 200,
+    "buy_price": 170
+  },
+  {
+    "name": "Colgate Max White",
+    "sell_price": 250,
+    "buy_price": 210
+  },
+  {
+    "name": "Az Extra White",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Furce Mr.Star",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Furce Cobor 1+1",
+    "sell_price": 250,
+    "buy_price": 200
+  },
+  {
+    "name": "Krem Nivea Blu",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Nivea Soft",
+    "sell_price": 360,
+    "buy_price": 320
+  },
+  {
+    "name": "Viking Blu",
+    "sell_price": 170,
+    "buy_price": 130
+  },
+  {
+    "name": "Intesa Styling",
+    "sell_price": 250,
+    "buy_price": 210
+  },
+  {
+    "name": "Bioaktiv 3kg",
+    "sell_price": 550,
+    "buy_price": 460
+  },
+  {
+    "name": "Deka 3kg",
+    "sell_price": 950,
+    "buy_price": 800
+  },
+  {
+    "name": "Ariel 1.5kg",
+    "sell_price": 700,
+    "buy_price": 550
+  },
+  {
+    "name": "Bonux",
+    "sell_price": 480,
+    "buy_price": 320
+  },
+  {
+    "name": "Acid Titan",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Titan Grasatore",
+    "sell_price": 300,
+    "buy_price": 250
+  },
+  {
+    "name": "Vim",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Cif",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Disefektant",
+    "sell_price": 450,
+    "buy_price": 400
+  },
+  {
+    "name": "Peruoll",
+    "sell_price": 650,
+    "buy_price": 500
+  },
+  {
+    "name": "Rampart Biscuits",
+    "sell_price": 150,
+    "buy_price": 115
+  },
+  {
+    "name": "Pampart Cakes Biscuits",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Bonbone Gledis",
+    "sell_price": 320,
+    "buy_price": 280
+  },
+  {
+    "name": "Cokollat Biscuits Gledis",
+    "sell_price": 160,
+    "buy_price": 130
+  },
+  {
+    "name": "Biskota Dietike",
+    "sell_price": 130,
+    "buy_price": 100
+  },
+  {
+    "name": "Saviardi",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Miell Top",
+    "sell_price": 100,
+    "buy_price": 77
+  },
+  {
+    "name": "Niseshte Diamond",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Tershere",
+    "sell_price": 140,
+    "buy_price": 110
+  },
+  {
+    "name": "Thjerza Torono",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Cibuk Eti Susam",
+    "sell_price": 40,
+    "buy_price": 30
+  },
+  {
+    "name": "Cibuk Eti Pikant",
+    "sell_price": 50,
+    "buy_price": 35
+  },
+  {
+    "name": "Napolitan Cubs",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Farsoleta",
+    "sell_price": 40,
+    "buy_price": 25
+  },
+  {
+    "name": "Bonbina te vogla",
+    "sell_price": 150,
+    "buy_price": 100
+  },
+  {
+    "name": "Bonbina mesatare",
+    "sell_price": 250,
+    "buy_price": 200
+  },
+  {
+    "name": "Bonbina te medhaja",
+    "sell_price": 270,
+    "buy_price": 220
+  },
+  {
+    "name": "Letra Higjenike",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Pampersa Sibora",
+    "sell_price": 500,
+    "buy_price": 430
+  },
+  {
+    "name": "Djath bebe",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Ketchap",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Komposto Pjeshke",
+    "sell_price": 200,
+    "buy_price": 170
+  },
+  {
+    "name": "Komposto Kumbulle",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Mjalt Industrial",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Ullinj",
+    "sell_price": 200,
+    "buy_price": 160
+  },
+  {
+    "name": "Ullinj me mbushje",
+    "sell_price": 220,
+    "buy_price": 180
+  },
+  {
+    "name": "Salc Diamond",
+    "sell_price": 160,
+    "buy_price": 130
+  },
+  {
+    "name": "Salc Ana",
+    "sell_price": 170,
+    "buy_price": 135
+  },
+  {
+    "name": "Uthull Molle",
+    "sell_price": 150,
+    "buy_price": 120
+  },
+  {
+    "name": "Vaj Ulliri Luna",
+    "sell_price": 200,
+    "buy_price": 165
+  },
+  {
+    "name": "Molto Reply",
+    "sell_price": 30,
+    "buy_price": 25
+  },
+  {
+    "name": "Belino",
+    "sell_price": 60,
+    "buy_price": 49
+  },
+  {
+    "name": "Mini-croissant",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Molto bono",
+    "sell_price": 60,
+    "buy_price": 50
+  },
+  {
+    "name": "Bake-Rolls",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Bruschete Mareti",
+    "sell_price": 90,
+    "buy_price": 70
+  },
+  {
+    "name": "Biskrem fishek",
+    "sell_price": 80,
+    "buy_price": 65
+  },
+  {
+    "name": "Biskrem qese",
+    "sell_price": 120,
+    "buy_price": 100
+  },
+  {
+    "name": "Albeni qese",
+    "sell_price": 120,
+    "buy_price": 100
+  },
+  {
+    "name": "Crako",
+    "sell_price": 80,
+    "buy_price": 65
+  },
+  {
+    "name": "Maja Buke e madhe",
+    "sell_price": 260,
+    "buy_price": 240
+  },
+  {
+    "name": "Maja Buke e vogel",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Caj Kamomil",
+    "sell_price": 220,
+    "buy_price": 190
+  },
+  {
+    "name": "Caj Boronice",
+    "sell_price": 250,
+    "buy_price": 220
+  },
+  {
+    "name": "Krip me erza",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Kinder Bueno",
+    "sell_price": 100,
+    "buy_price": 78
+  },
+  {
+    "name": "Cokollat Mars",
+    "sell_price": 100,
+    "buy_price": 80
+  },
+  {
+    "name": "Cokollat Bounty",
+    "sell_price": 100,
+    "buy_price": 90
+  },
+  {
+    "name": "Biskota Duo",
+    "sell_price": 220,
+    "buy_price": 185
+  },
+  {
+    "name": "Pringles I madh",
+    "sell_price": 250,
+    "buy_price": 190
+  },
+  {
+    "name": "Pringles I vogel",
+    "sell_price": 150,
+    "buy_price": 125
+  },
+  {
+    "name": "Sode Buke Teuta",
+    "sell_price": 50,
+    "buy_price": 35
+  },
+  {
+    "name": "Peta Lasanja",
+    "sell_price": 290,
+    "buy_price": 260
+  },
+  {
+    "name": "Kos Lufra",
+    "sell_price": 170,
+    "buy_price": 40
+  },
+  {
+    "name": "Salc Lula",
+    "sell_price": 160,
+    "buy_price": 140
+  },
+  {
+    "name": "Djath Danez",
+    "sell_price": 350,
+    "buy_price": 330
+  },
+  {
+    "name": "Qumesht Late",
+    "sell_price": 180,
+    "buy_price": 155
+  },
+  {
+    "name": "Arra",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Rrush i Thate",
+    "sell_price": 80,
+    "buy_price": 45
+  },
+  {
+    "name": "Sticka",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Bajame",
+    "sell_price": 100,
+    "buy_price": 75
+  },
+  {
+    "name": "Rigon",
+    "sell_price": 30,
+    "buy_price": 15
+  },
+  {
+    "name": "Piper",
+    "sell_price": 30,
+    "buy_price": 15
+  }
+]
