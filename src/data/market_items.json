@@ -2,1516 +2,1933 @@
   {
     "name": " Marlboro Blu 4",
     "sell_price": 370,
-    "buy_price": 350
+    "buy_price": 350,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Marlboro e Zeze",
     "sell_price": 550,
-    "buy_price": 480
+    "buy_price": 480,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Lucky Strike",
     "sell_price": 280,
-    "buy_price": 250
+    "buy_price": 250,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Slims Eva",
     "sell_price": 260,
-    "buy_price": 240
+    "buy_price": 240,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Philip 4",
     "sell_price": 300,
-    "buy_price": 270
+    "buy_price": 270,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Philip 6",
     "sell_price": 300,
-    "buy_price": 270
+    "buy_price": 270,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Slims Gold",
     "sell_price": 320,
-    "buy_price": 295
+    "buy_price": 295,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Philip Normal",
     "sell_price": 310,
-    "buy_price": 290
+    "buy_price": 290,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Dunhill",
     "sell_price": 400,
-    "buy_price": 380
+    "buy_price": 380,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Winston Blu",
     "sell_price": 310,
-    "buy_price": 285
+    "buy_price": 285,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Winston Gri",
     "sell_price": 280,
-    "buy_price": 260
+    "buy_price": 260,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Marlboro Kuqe",
     "sell_price": 400,
-    "buy_price": 380
+    "buy_price": 380,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Marlboro Gold",
     "sell_price": 400,
-    "buy_price": 380
+    "buy_price": 380,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Karrelia Kuqe",
     "sell_price": 260,
-    "buy_price": 240
+    "buy_price": 240,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Lexhera",
     "sell_price": 310,
-    "buy_price": 280
+    "buy_price": 280,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Marlboro 6",
     "sell_price": 370,
-    "buy_price": 350
+    "buy_price": 350,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Orbit",
     "sell_price": 60,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Orbit pako",
     "sell_price": 280,
-    "buy_price": 250
+    "buy_price": 250,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Shkrepse",
     "sell_price": 50,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Të Tjera"
   },
   {
     "name": "Cumcakiz vipa",
     "sell_price": 20,
-    "buy_price": 15
+    "buy_price": 15,
+    "category": "Embelsira"
   },
   {
     "name": "Guri I Zi",
     "sell_price": 350,
-    "buy_price": 330
+    "buy_price": 330,
+    "category": "Të Tjera"
   },
   {
     "name": "Cakmak Bic",
     "sell_price": 60,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Cakmak I Thjesht",
     "sell_price": 50,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Ocb",
     "sell_price": 60,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Rizla",
     "sell_price": 120,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Letra Duhani",
     "sell_price": 60,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Cigare & Duhan"
   },
   {
     "name": "Grand I Gatshem",
     "sell_price": 150,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Të Tjera"
   },
   {
     "name": "Grand I holle",
     "sell_price": 150,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Të Tjera"
   },
   {
     "name": "Grand I trashe",
     "sell_price": 130,
-    "buy_price": 110
+    "buy_price": 110,
+    "category": "Të Tjera"
   },
   {
     "name": "Shtupa",
     "sell_price": 250,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Të Tjera"
   },
   {
     "name": "Pipa",
     "sell_price": 70,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Të Tjera"
   },
   {
     "name": "Sfungjer 1+1",
     "sell_price": 70,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Sfungjer I thjeshte",
     "sell_price": 10,
-    "buy_price": 8
+    "buy_price": 8,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Tel enesh",
     "sell_price": 30,
-    "buy_price": 20
+    "buy_price": 20,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Drago",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Qirinj",
     "sell_price": 25,
-    "buy_price": 18
+    "buy_price": 18,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Kunja veshesh",
     "sell_price": 80,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Të Tjera"
   },
   {
     "name": "Kunja dhembesh",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Doreza pune",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Atak I vogel",
     "sell_price": 30,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Të Tjera"
   },
   {
     "name": "Atak I madh",
     "sell_price": 50,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Të Tjera"
   },
   {
     "name": "Big astor",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Big gillete",
     "sell_price": 360,
-    "buy_price": 270
+    "buy_price": 270,
+    "category": "Të Tjera"
   },
   {
     "name": "Petal e vogel",
     "sell_price": 20,
-    "buy_price": 15
+    "buy_price": 15,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Brisk astra",
     "sell_price": 50,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Të Tjera"
   },
   {
     "name": "Boje kepucesh",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Të Tjera"
   },
   {
     "name": "Prerse thonjsh e vogel",
     "sell_price": 50,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Të Tjera"
   },
   {
     "name": "Prerse thonjsh e madhe",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Bateri toshiba te vogla",
     "sell_price": 50,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Elektrike & Tjera"
   },
   {
     "name": "Bateri toshiba te medha",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Elektrike & Tjera"
   },
   {
     "name": "Vere e kuqe Kantina Juli",
     "sell_price": 600,
-    "buy_price": 460
+    "buy_price": 460,
+    "category": "Të Tjera"
   },
   {
     "name": "Fshesa",
     "sell_price": 250,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Të Tjera"
   },
   {
     "name": "Bisht I kuq",
     "sell_price": 130,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Të Tjera"
   },
   {
     "name": "Bisht I holl",
     "sell_price": 130,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Të Tjera"
   },
   {
     "name": "Fresh per banjo",
     "sell_price": 220,
-    "buy_price": 180
+    "buy_price": 180,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Head and shoulder",
     "sell_price": 380,
-    "buy_price": 330
+    "buy_price": 330,
+    "category": "Të Tjera"
   },
   {
     "name": "Wash and go vogel",
     "sell_price": 260,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Wash and go e madhe",
     "sell_price": 360,
-    "buy_price": 300
+    "buy_price": 300,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Palmolive",
     "sell_price": 170,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Të Tjera"
   },
   {
     "name": "Dimension",
     "sell_price": 160,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Ultrex",
     "sell_price": 350,
-    "buy_price": 300
+    "buy_price": 300,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Panten i vogel",
     "sell_price": 380,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Panten i madh",
     "sell_price": 550,
-    "buy_price": 500
+    "buy_price": 500,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Johnson I vogel",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Krem gaia",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Ilac mizash I vogel",
     "sell_price": 180,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Të Tjera"
   },
   {
     "name": "Ilac mizash I madh",
     "sell_price": 220,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Të Tjera"
   },
   {
     "name": "Skoc I madh",
     "sell_price": 70,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Të Tjera"
   },
   {
     "name": "Skoc I vogel",
     "sell_price": 50,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Të Tjera"
   },
   {
     "name": "Izolant I zi",
     "sell_price": 50,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Të Tjera"
   },
   {
     "name": "Bombula gazi elka",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Dorreza llastiku",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Gota plastike",
     "sell_price": 100,
-    "buy_price": 62
+    "buy_price": 62,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Gota kafeje",
     "sell_price": 100,
-    "buy_price": 62
+    "buy_price": 62,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Leter plastike rimmed",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Leter alumini rimmed",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Leter pjekje rimmed",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Sapun duru",
     "sell_price": 220,
-    "buy_price": 142
+    "buy_price": 142,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Sapun palmolive",
     "sell_price": 60,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Sapun dove",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Letra tlagura te medhaja",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Të Tjera"
   },
   {
     "name": "Letra te lagura te vogla",
     "sell_price": 40,
-    "buy_price": 20
+    "buy_price": 20,
+    "category": "Të Tjera"
   },
   {
     "name": "Lines everyday",
     "sell_price": 170,
-    "buy_price": 135
+    "buy_price": 135,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Kana",
     "sell_price": 50,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Të Tjera"
   },
   {
     "name": "Disar sunscream",
     "sell_price": 700,
-    "buy_price": 550
+    "buy_price": 550,
+    "category": "Të Tjera"
   },
   {
     "name": "Nivea black and white sprite",
     "sell_price": 320,
-    "buy_price": 270
+    "buy_price": 270,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Nivea black and white rul",
     "sell_price": 350,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Axe",
     "sell_price": 300,
-    "buy_price": 250
+    "buy_price": 250,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Sapun dermomed",
     "sell_price": 240,
-    "buy_price": 180
+    "buy_price": 180,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Sapun rimmed",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Sapun liquido",
     "sell_price": 160,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Abc 3 kg",
     "sell_price": 500,
-    "buy_price": 420
+    "buy_price": 420,
+    "category": "Pastrim"
   },
   {
     "name": "Bingo 3kg",
     "sell_price": 520,
-    "buy_price": 400
+    "buy_price": 400,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Detergjend alpha",
     "sell_price": 600,
-    "buy_price": 520
+    "buy_price": 520,
+    "category": "Të Tjera"
   },
   {
     "name": "Deka vogel lavatrice",
     "sell_price": 230,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Pastrim"
   },
   {
     "name": "Deka dore",
     "sell_price": 130,
-    "buy_price": 95
+    "buy_price": 95,
+    "category": "Pastrim"
   },
   {
     "name": "Ace blu e madhe",
     "sell_price": 320,
-    "buy_price": 290
+    "buy_price": 290,
+    "category": "Pastrim"
   },
   {
     "name": "Ace blu e vogel",
     "sell_price": 110,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pastrim"
   },
   {
     "name": "Acit I kuq",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Të Tjera"
   },
   {
     "name": "Puliorapid",
     "sell_price": 290,
-    "buy_price": 240
+    "buy_price": 240,
+    "category": "Pastrim"
   },
   {
     "name": "Lenor I madh",
     "sell_price": 500,
-    "buy_price": 400
+    "buy_price": 400,
+    "category": "Të Tjera"
   },
   {
     "name": "Lenor I vogel",
     "sell_price": 400,
-    "buy_price": 300
+    "buy_price": 300,
+    "category": "Të Tjera"
   },
   {
     "name": "Semana",
     "sell_price": 500,
-    "buy_price": 420
+    "buy_price": 420,
+    "category": "Të Tjera"
   },
   {
     "name": "Ajax pllakash",
     "sell_price": 220,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Pastrim"
   },
   {
     "name": "Ajax xhamash",
     "sell_price": 250,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Pastrim"
   },
   {
     "name": "Mastro lindo",
     "sell_price": 220,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Pastrim"
   },
   {
     "name": "Melias grasatore",
     "sell_price": 320,
-    "buy_price": 260
+    "buy_price": 260,
+    "category": "Pastrim"
   },
   {
     "name": "Fairy I madh",
     "sell_price": 250,
-    "buy_price": 210
+    "buy_price": 210,
+    "category": "Pastrim"
   },
   {
     "name": "Fairy I vogel",
     "sell_price": 160,
-    "buy_price": 110
+    "buy_price": 110,
+    "category": "Pastrim"
   },
   {
     "name": "Test enesh",
     "sell_price": 80,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Gurabie te bardha",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Gurabie te kuqe",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Biskota tagani",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Embelsira"
   },
   {
     "name": "Biskota tagani te medhaja",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Embelsira"
   },
   {
     "name": "Llokume suxhuk",
     "sell_price": 320,
-    "buy_price": 280
+    "buy_price": 280,
+    "category": "Embelsira"
   },
   {
     "name": "Rafaelo kuti",
     "sell_price": 450,
-    "buy_price": 400
+    "buy_price": 400,
+    "category": "Embelsira"
   },
   {
     "name": "Biskota bebi",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Embelsira"
   },
   {
     "name": "Mix magic",
     "sell_price": 180,
-    "buy_price": 150
+    "buy_price": 150,
+    "category": "Embelsira"
   },
   {
     "name": "Llokume me arra",
     "sell_price": 150,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Embelsira"
   },
   {
     "name": "Dolce mia",
     "sell_price": 120,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Embelsira"
   },
   {
     "name": "kek big roll",
     "sell_price": 120,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Pasticeri"
   },
   {
     "name": "Karramele me xhel",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Karramele te lira",
     "sell_price": 120,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Të Tjera"
   },
   {
     "name": "Kadaif I lire",
     "sell_price": 180,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Të Tjera"
   },
   {
     "name": "Kadaif me peta",
     "sell_price": 250,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Miell universal",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Miell prima",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Miell diamand",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Miell ola",
     "sell_price": 130,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Sheqer king",
     "sell_price": 100,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Të Tjera"
   },
   {
     "name": "Niseshte teuta",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Trahana",
     "sell_price": 80,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Misir",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Të Tjera"
   },
   {
     "name": "Grure",
     "sell_price": 100,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Kafe millenium",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Të Tjera"
   },
   {
     "name": "Lori kafe",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Të Tjera"
   },
   {
     "name": "Mulliri vjeter",
     "sell_price": 150,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Vaj & Yndyre"
   },
   {
     "name": "Kafe Paskalin",
     "sell_price": 140,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Të Tjera"
   },
   {
     "name": "Kafe Pazari I ri",
     "sell_price": 110,
-    "buy_price": 85
+    "buy_price": 85,
+    "category": "Të Tjera"
   },
   {
     "name": "Krip e bardhe",
     "sell_price": 30,
-    "buy_price": 20
+    "buy_price": 20,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Krip e zeze",
     "sell_price": 30,
-    "buy_price": 20
+    "buy_price": 20,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Bravo molle kanace",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Bravo pjeshke kanace",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Bravo rrushi kanace",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Kola kanace",
     "sell_price": 90,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Fanta ekzotik kanace",
     "sell_price": 90,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Fanta portokall kanace",
     "sell_price": 90,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Pije Freskuese"
   },
   {
     "name": "B52",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Golden eagle",
     "sell_price": 80,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Ivi kajsi kanace",
     "sell_price": 80,
-    "buy_price": 55
+    "buy_price": 55,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Limon soda",
     "sell_price": 80,
-    "buy_price": 55
+    "buy_price": 55,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Orange soda",
     "sell_price": 80,
-    "buy_price": 55
+    "buy_price": 55,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Kafe e fohte nescafe",
     "sell_price": 170,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Të Tjera"
   },
   {
     "name": "Red bull",
     "sell_price": 170,
-    "buy_price": 106
+    "buy_price": 106,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Pitbull I vogel",
     "sell_price": 50,
-    "buy_price": 35
+    "buy_price": 35,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Caj San Bendeto I Vogel",
     "sell_price": 80,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Cajra & Lëngje"
   },
   {
     "name": "Caj San Bendeto I Madh",
     "sell_price": 130,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Cajra & Lëngje"
   },
   {
     "name": "Sola kanace",
     "sell_price": 70,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Sola 0.5",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Sola 1.5",
     "sell_price": 160,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Amita Qershi e vogel",
     "sell_price": 70,
-    "buy_price": 54
+    "buy_price": 54,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Amita Pjeshke e vogel",
     "sell_price": 70,
-    "buy_price": 54
+    "buy_price": 54,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Amita Pjeshke e madhe",
     "sell_price": 180,
-    "buy_price": 155
+    "buy_price": 155,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Amita Qershi e madhe",
     "sell_price": 180,
-    "buy_price": 155
+    "buy_price": 155,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Amita Santa e madhe",
     "sell_price": 200,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Fresh Kola",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Rico Fresh",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Fresh Limon",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Go +",
     "sell_price": 70,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Uje 0.5",
     "sell_price": 50,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Uje 1.5",
     "sell_price": 70,
-    "buy_price": 45
+    "buy_price": 45,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Uje I Gazuar 0.5",
     "sell_price": 50,
-    "buy_price": 28
+    "buy_price": 28,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Uje I Gazuar 1.5",
     "sell_price": 70,
-    "buy_price": 55
+    "buy_price": 55,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Milka",
     "sell_price": 140,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Të Tjera"
   },
   {
     "name": "Kakao e thjesht",
     "sell_price": 100,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Të Tjera"
   },
   {
     "name": "Vaj Olim",
     "sell_price": 210,
-    "buy_price": 190
+    "buy_price": 190,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Vaj Floriol",
     "sell_price": 220,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Sallate Turshi e madhe",
     "sell_price": 320,
-    "buy_price": 270
+    "buy_price": 270,
+    "category": "Salca & Turshi"
   },
   {
     "name": "Sallate Turshi e vogel",
     "sell_price": 170,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Salca & Turshi"
   },
   {
     "name": "Kastravec Turshi I madh",
     "sell_price": 400,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Salca & Turshi"
   },
   {
     "name": "Kastravec Turshi I vogel",
     "sell_price": 170,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Salca & Turshi"
   },
   {
     "name": "Spec Marinade e madhe",
     "sell_price": 400,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Spec Marinade e vogel",
     "sell_price": 170,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Cokokrem Daily",
     "sell_price": 220,
-    "buy_price": 180
+    "buy_price": 180,
+    "category": "Të Tjera"
   },
   {
     "name": "Nutella 400g",
     "sell_price": 380,
-    "buy_price": 310
+    "buy_price": 310,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Bitao",
     "sell_price": 170,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Të Tjera"
   },
   {
     "name": "Spec djeges",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Krem karamel",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Të Tjera"
   },
   {
     "name": "Qumesht panda",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Hopla",
     "sell_price": 260,
-    "buy_price": 210
+    "buy_price": 210,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Miser I koncervuar",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Koncerva peshku",
     "sell_price": 100,
-    "buy_price": 60
+    "buy_price": 60,
+    "category": "Të Tjera"
   },
   {
     "name": "Ton I koncervuar",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Koncerva vici",
     "sell_price": 380,
-    "buy_price": 330
+    "buy_price": 330,
+    "category": "Të Tjera"
   },
   {
     "name": "Majonez",
     "sell_price": 360,
-    "buy_price": 310
+    "buy_price": 310,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Jufka",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Cibuk prima",
     "sell_price": 40,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Cibuk crax",
     "sell_price": 30,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Kubeti",
     "sell_price": 40,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Të Tjera"
   },
   {
     "name": "Kinder i vogel",
     "sell_price": 80,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Embelsira"
   },
   {
     "name": "Patatina reply",
     "sell_price": 20,
-    "buy_price": 15
+    "buy_price": 15,
+    "category": "Të Tjera"
   },
   {
     "name": "Vipa 3+",
     "sell_price": 100,
-    "buy_price": 88
+    "buy_price": 88,
+    "category": "Embelsira"
   },
   {
     "name": "Vipa 20g",
     "sell_price": 20,
-    "buy_price": 16
+    "buy_price": 16,
+    "category": "Embelsira"
   },
   {
     "name": "Patatina Brrr",
     "sell_price": 20,
-    "buy_price": 16
+    "buy_price": 16,
+    "category": "Të Tjera"
   },
   {
     "name": "Top futbolli",
     "sell_price": 500,
-    "buy_price": 350
+    "buy_price": 350,
+    "category": "Lodra"
   },
   {
     "name": "Top Volejbolli",
     "sell_price": 500,
-    "buy_price": 350
+    "buy_price": 350,
+    "category": "Lodra"
   },
   {
     "name": "Peroni",
     "sell_price": 120,
-    "buy_price": 89
+    "buy_price": 89,
+    "category": "Birra"
   },
   {
     "name": "Heineken",
     "sell_price": 140,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Birra"
   },
   {
     "name": "Peja",
     "sell_price": 100,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Birra"
   },
   {
     "name": "Elbar",
     "sell_price": 110,
-    "buy_price": 83
+    "buy_price": 83,
+    "category": "Birra"
   },
   {
     "name": "Qeruese Perimesh",
     "sell_price": 120,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Të Tjera"
   },
   {
     "name": "Furce Rroje",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Të Tjera"
   },
   {
     "name": "Kapse Rrobash",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": " Kapse Rrobash Piaza Plastico",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Petrogaz Rimmed",
     "sell_price": 1000,
-    "buy_price": 850
+    "buy_price": 850,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Llampa Rimmed te mdhaja",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Llampa Rimmed te vogla",
     "sell_price": 230,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Llampa Alb",
     "sell_price": 180,
-    "buy_price": 150
+    "buy_price": 150,
+    "category": "Aksesore Shtëpie"
   },
   {
     "name": "Calgon",
     "sell_price": 430,
-    "buy_price": 370
+    "buy_price": 370,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Vanish Roze",
     "sell_price": 400,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Të Tjera"
   },
   {
     "name": "Furce Dhembesh Codor",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Colgate Max Fresh",
     "sell_price": 200,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Colgate Max White",
     "sell_price": 250,
-    "buy_price": 210
+    "buy_price": 210,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Az Extra White",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Të Tjera"
   },
   {
     "name": "Furce Mr.Star",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Furce Cobor 1+1",
     "sell_price": 250,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Të Tjera"
   },
   {
     "name": "Krem Nivea Blu",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Nivea Soft",
     "sell_price": 360,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Higjiene Personale"
   },
   {
     "name": "Viking Blu",
     "sell_price": 170,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Të Tjera"
   },
   {
     "name": "Intesa Styling",
     "sell_price": 250,
-    "buy_price": 210
+    "buy_price": 210,
+    "category": "Të Tjera"
   },
   {
     "name": "Bioaktiv 3kg",
     "sell_price": 550,
-    "buy_price": 460
+    "buy_price": 460,
+    "category": "Të Tjera"
   },
   {
     "name": "Deka 3kg",
     "sell_price": 950,
-    "buy_price": 800
+    "buy_price": 800,
+    "category": "Pastrim"
   },
   {
     "name": "Ariel 1.5kg",
     "sell_price": 700,
-    "buy_price": 550
+    "buy_price": 550,
+    "category": "Pastrim"
   },
   {
     "name": "Bonux",
     "sell_price": 480,
-    "buy_price": 320
+    "buy_price": 320,
+    "category": "Pastrim"
   },
   {
     "name": "Acid Titan",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Pastrim"
   },
   {
     "name": "Titan Grasatore",
     "sell_price": 300,
-    "buy_price": 250
+    "buy_price": 250,
+    "category": "Pastrim"
   },
   {
     "name": "Vim",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Pastrim"
   },
   {
     "name": "Cif",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Pastrim"
   },
   {
     "name": "Disefektant",
     "sell_price": 450,
-    "buy_price": 400
+    "buy_price": 400,
+    "category": "Të Tjera"
   },
   {
     "name": "Peruoll",
     "sell_price": 650,
-    "buy_price": 500
+    "buy_price": 500,
+    "category": "Pastrim"
   },
   {
     "name": "Rampart Biscuits",
     "sell_price": 150,
-    "buy_price": 115
+    "buy_price": 115,
+    "category": "Të Tjera"
   },
   {
     "name": "Pampart Cakes Biscuits",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Të Tjera"
   },
   {
     "name": "Bonbone Gledis",
     "sell_price": 320,
-    "buy_price": 280
+    "buy_price": 280,
+    "category": "Të Tjera"
   },
   {
     "name": "Cokollat Biscuits Gledis",
     "sell_price": 160,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Embelsira"
   },
   {
     "name": "Biskota Dietike",
     "sell_price": 130,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Embelsira"
   },
   {
     "name": "Saviardi",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Të Tjera"
   },
   {
     "name": "Miell Top",
     "sell_price": 100,
-    "buy_price": 77
+    "buy_price": 77,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Niseshte Diamond",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Tershere",
     "sell_price": 140,
-    "buy_price": 110
+    "buy_price": 110,
+    "category": "Të Tjera"
   },
   {
     "name": "Thjerza Torono",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Të Tjera"
   },
   {
     "name": "Cibuk Eti Susam",
     "sell_price": 40,
-    "buy_price": 30
+    "buy_price": 30,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Cibuk Eti Pikant",
     "sell_price": 50,
-    "buy_price": 35
+    "buy_price": 35,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Napolitan Cubs",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Embelsira"
   },
   {
     "name": "Farsoleta",
     "sell_price": 40,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Të Tjera"
   },
   {
     "name": "Bonbina te vogla",
     "sell_price": 150,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Të Tjera"
   },
   {
     "name": "Bonbina mesatare",
     "sell_price": 250,
-    "buy_price": 200
+    "buy_price": 200,
+    "category": "Të Tjera"
   },
   {
     "name": "Bonbina te medhaja",
     "sell_price": 270,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Të Tjera"
   },
   {
     "name": "Letra Higjenike",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Të Tjera"
   },
   {
     "name": "Pampersa Sibora",
     "sell_price": 500,
-    "buy_price": 430
+    "buy_price": 430,
+    "category": "Femije"
   },
   {
     "name": "Djath bebe",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Qumësht & Djathë"
   },
   {
     "name": "Ketchap",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Të Tjera"
   },
   {
     "name": "Komposto Pjeshke",
     "sell_price": 200,
-    "buy_price": 170
+    "buy_price": 170,
+    "category": "Të Tjera"
   },
   {
     "name": "Komposto Kumbulle",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Të Tjera"
   },
   {
     "name": "Mjalt Industrial",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Të Tjera"
   },
   {
     "name": "Ullinj",
     "sell_price": 200,
-    "buy_price": 160
+    "buy_price": 160,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Ullinj me mbushje",
     "sell_price": 220,
-    "buy_price": 180
+    "buy_price": 180,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Salc Diamond",
     "sell_price": 160,
-    "buy_price": 130
+    "buy_price": 130,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Salc Ana",
     "sell_price": 170,
-    "buy_price": 135
+    "buy_price": 135,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Uthull Molle",
     "sell_price": 150,
-    "buy_price": 120
+    "buy_price": 120,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Vaj Ulliri Luna",
     "sell_price": 200,
-    "buy_price": 165
+    "buy_price": 165,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Molto Reply",
     "sell_price": 30,
-    "buy_price": 25
+    "buy_price": 25,
+    "category": "Embelsira"
   },
   {
     "name": "Belino",
     "sell_price": 60,
-    "buy_price": 49
+    "buy_price": 49,
+    "category": "Të Tjera"
   },
   {
     "name": "Mini-croissant",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Cajra & Lëngje"
   },
   {
     "name": "Molto bono",
     "sell_price": 60,
-    "buy_price": 50
+    "buy_price": 50,
+    "category": "Embelsira"
   },
   {
     "name": "Bake-Rolls",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Pasticeri"
   },
   {
     "name": "Bruschete Mareti",
     "sell_price": 90,
-    "buy_price": 70
+    "buy_price": 70,
+    "category": "Të Tjera"
   },
   {
     "name": "Biskrem fishek",
     "sell_price": 80,
-    "buy_price": 65
+    "buy_price": 65,
+    "category": "Embelsira"
   },
   {
     "name": "Biskrem qese",
     "sell_price": 120,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Embelsira"
   },
   {
     "name": "Albeni qese",
     "sell_price": 120,
-    "buy_price": 100
+    "buy_price": 100,
+    "category": "Embelsira"
   },
   {
     "name": "Crako",
     "sell_price": 80,
-    "buy_price": 65
+    "buy_price": 65,
+    "category": "Embelsira"
   },
   {
     "name": "Maja Buke e madhe",
     "sell_price": 260,
-    "buy_price": 240
+    "buy_price": 240,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Maja Buke e vogel",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Caj Kamomil",
     "sell_price": 220,
-    "buy_price": 190
+    "buy_price": 190,
+    "category": "Cajra & Lëngje"
   },
   {
     "name": "Caj Boronice",
     "sell_price": 250,
-    "buy_price": 220
+    "buy_price": 220,
+    "category": "Cajra & Lëngje"
   },
   {
     "name": "Krip me erza",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Kinder Bueno",
     "sell_price": 100,
-    "buy_price": 78
+    "buy_price": 78,
+    "category": "Embelsira"
   },
   {
     "name": "Cokollat Mars",
     "sell_price": 100,
-    "buy_price": 80
+    "buy_price": 80,
+    "category": "Embelsira"
   },
   {
     "name": "Cokollat Bounty",
     "sell_price": 100,
-    "buy_price": 90
+    "buy_price": 90,
+    "category": "Embelsira"
   },
   {
     "name": "Biskota Duo",
     "sell_price": 220,
-    "buy_price": 185
+    "buy_price": 185,
+    "category": "Embelsira"
   },
   {
     "name": "Pringles I madh",
     "sell_price": 250,
-    "buy_price": 190
+    "buy_price": 190,
+    "category": "Të Tjera"
   },
   {
     "name": "Pringles I vogel",
     "sell_price": 150,
-    "buy_price": 125
+    "buy_price": 125,
+    "category": "Të Tjera"
   },
   {
     "name": "Sode Buke Teuta",
     "sell_price": 50,
-    "buy_price": 35
+    "buy_price": 35,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Peta Lasanja",
     "sell_price": 290,
-    "buy_price": 260
+    "buy_price": 260,
+    "category": "Bukë & Miell"
   },
   {
     "name": "Kos Lufra",
     "sell_price": 170,
-    "buy_price": 40
+    "buy_price": 40,
+    "category": "Qumësht & Djathë"
   },
   {
     "name": "Salc Lula",
     "sell_price": 160,
-    "buy_price": 140
+    "buy_price": 140,
+    "category": "Erza & Gatim"
   },
   {
     "name": "Djath Danez",
     "sell_price": 350,
-    "buy_price": 330
+    "buy_price": 330,
+    "category": "Qumësht & Djathë"
   },
   {
     "name": "Qumesht Late",
     "sell_price": 180,
-    "buy_price": 155
+    "buy_price": 155,
+    "category": "Thatë & Konservuar"
   },
   {
     "name": "Arra",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Rrush i Thate",
     "sell_price": 80,
-    "buy_price": 45
+    "buy_price": 45,
+    "category": "Të Tjera"
   },
   {
     "name": "Sticka",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Bajame",
     "sell_price": 100,
-    "buy_price": 75
+    "buy_price": 75,
+    "category": "Të Tjera"
   },
   {
     "name": "Rigon",
     "sell_price": 30,
-    "buy_price": 15
+    "buy_price": 15,
+    "category": "Pije Freskuese"
   },
   {
     "name": "Piper",
     "sell_price": 30,
-    "buy_price": 15
+    "buy_price": 15,
+    "category": "Erza & Gatim"
+  },
+  {
+    "name": "Kola shishe",
+    "buy_price": 125,
+    "sell_price": 160,
+    "category": "Pije Freskuese"
+  },
+  {
+    "name": "Fanta portokall shishe",
+    "buy_price": 125,
+    "sell_price": 160,
+    "category": "Pije Freskuese"
+  },
+  {
+    "name": "Fanta ekzotik shishe",
+    "buy_price": 125,
+    "sell_price": 160,
+    "category": "Pije Freskuese"
+  },
+  {
+    "name": "Makarona misko",
+    "buy_price": 120,
+    "sell_price": 140,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Makarona prima",
+    "buy_price": 75,
+    "sell_price": 100,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Makarona divella",
+    "buy_price": 80,
+    "sell_price": 100,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Oriz gold i lire",
+    "buy_price": 90,
+    "sell_price": 120,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Oriz gold i shtrenjte",
+    "buy_price": 190,
+    "sell_price": 220,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Oriz perla",
+    "buy_price": 150,
+    "sell_price": 180,
+    "category": "Bukë & Miell"
+  },
+  {
+    "name": "Bravo pjeshke shishe",
+    "buy_price": 135,
+    "sell_price": 160,
+    "category": "Pije Freskuese"
+  },
+  {
+    "name": "Bravo molle shishe",
+    "buy_price": 135,
+    "sell_price": 160,
+    "category": "Pije Freskuese"
+  },
+  {
+    "name": "Lays",
+    "buy_price": 50,
+    "sell_price": 60,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Chips",
+    "buy_price": 40,
+    "sell_price": 50,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Patatina reply",
+    "buy_price": 16,
+    "sell_price": 20,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Kikirik blu",
+    "buy_price": 90,
+    "sell_price": 110,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Snikers",
+    "buy_price": 55,
+    "sell_price": 70,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Luna",
+    "buy_price": 30,
+    "sell_price": 40,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Twingo",
+    "buy_price": 8,
+    "sell_price": 10,
+    "category": "Embelsira"
+  },
+  {
+    "name": "Kris kros",
+    "buy_price": 8,
+    "sell_price": 10,
+    "category": "Embelsira"
   }
 ]
