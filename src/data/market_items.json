@@ -1930,5 +1930,20 @@
     "buy_price": 8,
     "sell_price": 10,
     "category": "Embelsira"
+  },
+  {
+    "name": "Slims",
+    "buy_price": 275,
+    "sell_price": 300
+  },
+  {
+    "name": "Winston Gri",
+    "buy_price": 260,
+    "sell_price": 280
+  },
+  {
+    "name": "Bisktoa Piknik",
+    "buy_price": 15,
+    "sell_price": 30
   }
 ]
