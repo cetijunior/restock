@@ -175,21 +175,21 @@ export default function App() {
         <div className="flex justify-center border-b-4 border-green-500 rounded-2xl pb-2 gap-4">
           <button
             onClick={clearAll}
-            className="flex items-center gap-2 bg-red-500 text-white px-5 py-2 rounded-xl font-semibold shadow hover:bg-red-600"
+            className="flex items-center gap-1 bg-red-500 text-white px-3 py-2 rounded-xl font-semibold shadow hover:bg-red-600"
           >
             <FaTrash /> Pastro
           </button>
           <button
             onClick={exportToPDF}
-            className="flex items-center gap-2 bg-blue-600 text-white px-5 py-2 rounded-xl font-semibold shadow hover:bg-blue-700"
+            className="flex items-center gap-1 bg-blue-600 text-white px-3 py-2 rounded-xl font-semibold shadow hover:bg-blue-700"
           >
             <FaFilePdf /> Eksporto
           </button>
           <button
             onClick={() => setShowModal(true)}
-            className="flex items-center gap-2 bg-green-600 text-white px-5 py-2 rounded-xl font-semibold shadow hover:bg-green-700"
+            className="flex items-center gap-1 bg-green-600 text-white px-3 py-2 rounded-xl font-semibold shadow hover:bg-green-700"
           >
-            <FaPlus /> Shto Produkt
+            <FaPlus /> Shto
           </button>
 
         </div>
