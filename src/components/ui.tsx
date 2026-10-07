@@ -7,15 +7,15 @@ export const cx = (...c: (string | false | null | undefined)[]) => c.filter(Bool
 export function Stepper({ qty, onBump, onSet, size = "md" }: { qty: number; onBump: (d: number) => void; onSet: (n: number) => void; size?: "md" | "lg" }) {
   const b = size === "lg" ? "size-11" : "size-9";
   return (
-    <div className="anim-pop flex items-center rounded-full bg-accent text-accent-ink shadow-sm" onClick={(e) => e.stopPropagation()}>
-      <button aria-label="Zbrit" onClick={() => onBump(-1)} className={cx(b, "grid place-items-center rounded-full active:bg-black/10")}><Minus size={16} strokeWidth={2.75} /></button>
+    <div className="anim-pop flex items-center justify-between rounded-full bg-accent text-accent-ink shadow-sm" onClick={(e) => e.stopPropagation()}>
+      <button aria-label="Zbrit" onClick={() => onBump(-1)} className={cx(b, "grid place-items-center rounded-full active:bg-black/10")}><Minus size={size === "lg" ? 20 : 16} strokeWidth={2.75} /></button>
       <input
         aria-label="Sasia" inputMode="numeric" type="number" value={qty}
         onFocus={(e) => e.target.select()}
         onChange={(e) => onSet(Number(e.target.value))}
-        className="tabular w-9 bg-transparent text-center font-mono text-[15px] font-semibold outline-none"
+        className="tabular w-10 min-w-0 bg-transparent text-center font-mono text-base font-semibold outline-none"
       />
-      <button aria-label="Shto" onClick={() => onBump(1)} className={cx(b, "grid place-items-center rounded-full active:bg-black/10")}><Plus size={16} strokeWidth={2.75} /></button>
+      <button aria-label="Shto" onClick={() => onBump(1)} className={cx(b, "grid place-items-center rounded-full active:bg-black/10")}><Plus size={size === "lg" ? 20 : 16} strokeWidth={2.75} /></button>
     </div>
   );
 }
@@ -45,7 +45,7 @@ export function Sheet({ open, onClose, title, children }: { open: boolean; onClo
 export const Field = ({ label, children }: { label: string; children: ReactNode }) => (
   <label className="block space-y-1.5"><span className="text-xs font-semibold uppercase tracking-wide text-mute">{label}</span>{children}</label>
 );
-export const inputCls = "w-full rounded-xl border border-line bg-raised px-3.5 py-3 text-[15px] outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/25";
+export const inputCls = "w-full rounded-xl border border-line bg-raised px-4 py-3.5 text-base outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/25";
 
 export function Btn({ variant = "ghost", className, ...p }: React.ButtonHTMLAttributes<HTMLButtonElement> & { variant?: "primary" | "ghost" | "danger" }) {
   return (
@@ -76,7 +76,7 @@ export function Toaster() {
 export function Thumb({ image, icon, size = "size-11" }: { image?: string; icon?: string; size?: string }) {
   const [broken, setBroken] = useState(false);
   return (
-    <div className={cx(size, "grid shrink-0 place-items-center overflow-hidden rounded-xl bg-raised text-xl ring-1 ring-line")}>
+    <div className={cx(size, "grid shrink-0 place-items-center overflow-hidden rounded-xl bg-raised text-2xl ring-1 ring-line")}>
       {image && !broken
         ? <img src={image} alt="" loading="lazy" decoding="async" referrerPolicy="no-referrer" onError={() => setBroken(true)} className="size-full bg-white object-contain p-0.5" />
         : <span aria-hidden>{icon || "📦"}</span>}

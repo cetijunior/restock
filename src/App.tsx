@@ -51,7 +51,7 @@ export default function App() {
     t === "list" ? <ListPanel onBrowse={() => go("catalog")} /> : t === "history" ? <History onLoaded={() => go("list")} /> : <Settings />;
 
   return (
-    <div className="min-h-dvh overflow-x-clip pb-[calc(5.5rem+env(safe-area-inset-bottom))] lg:pb-10">
+    <div className="min-h-dvh overflow-x-clip pb-[calc(10rem+env(safe-area-inset-bottom))] lg:pb-10">
       <Toaster />
       <header className="sticky top-0 z-30 border-b border-line bg-bg/85 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 pt-[max(.75rem,env(safe-area-inset-top))] pb-3">
@@ -66,7 +66,7 @@ export default function App() {
             <Search size={18} className="pointer-events-none absolute left-3.5 top-1/2 -translate-y-1/2 text-mute" />
             <input ref={search} value={query} onChange={(e) => { setQuery(e.target.value); if (tab !== "catalog") setTab("catalog"); }}
               placeholder="Kërko produkte…" aria-label="Kërko produkte" enterKeyHint="search"
-              className="w-full rounded-2xl border border-line bg-panel py-3 pl-10 pr-10 text-[15px] outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/25" />
+              className="w-full rounded-2xl border border-line bg-panel py-3.5 pl-11 pr-11 text-base outline-none transition focus:border-accent focus:ring-2 focus:ring-accent/25" />
             {query ? (
               <button aria-label="Pastro kërkimin" onClick={() => { setQuery(""); search.current?.focus(); }} className="absolute right-2 top-1/2 grid size-8 -translate-y-1/2 place-items-center rounded-full text-mute hover:bg-raised"><X size={16} /></button>
             ) : (
@@ -92,12 +92,12 @@ export default function App() {
       <main className="mx-auto max-w-7xl px-4 pt-4 lg:grid lg:grid-cols-[1fr_26rem] lg:gap-8">
         <section className={cx(tab !== "catalog" && "hidden lg:block")}>
           <div className="mb-3 flex items-center justify-between gap-2 text-sm">
-            <label className="flex cursor-pointer items-center gap-2 text-mute">
-              <input type="checkbox" checked={onlyListed} onChange={(e) => setOnlyListed(e.target.checked)} className="size-4 accent-[var(--accent)]" />
+            <label className="flex cursor-pointer items-center gap-2.5 py-2 text-[15px] text-mute">
+              <input type="checkbox" checked={onlyListed} onChange={(e) => setOnlyListed(e.target.checked)} className="size-5 accent-[var(--accent)]" />
               Vetëm në listë {rows.length > 0 && <span className="font-mono text-ink">({rows.length})</span>}
             </label>
             <select value={sort} onChange={(e) => setSort(e.target.value as Sort)} aria-label="Rendit"
-              className="rounded-lg border border-line bg-panel px-2.5 py-1.5 font-medium outline-none">
+              className="rounded-xl border border-line bg-panel px-3 py-2.5 text-[15px] font-medium outline-none">
               <option value="name">Emri A–Z</option>
               <option value="category">Kategoria</option>
               <option value="price">Çmimi ↓</option>
@@ -123,17 +123,17 @@ export default function App() {
 
       {tab === "catalog" && rows.length > 0 && (
         <button onClick={() => go("list")}
-          className="anim-up fixed inset-x-4 bottom-[calc(4.75rem+env(safe-area-inset-bottom))] z-30 flex items-center justify-between rounded-2xl bg-ink px-5 py-3.5 text-bg shadow-2xl lg:hidden">
-          <span className="text-sm font-semibold">{rows.length} artikuj në listë</span>
-          <span className="tabular font-mono font-semibold">{lek(total)} →</span>
+          className="anim-up fixed inset-x-4 bottom-[calc(5.5rem+env(safe-area-inset-bottom))] z-30 flex items-center justify-between rounded-2xl bg-accent px-5 py-4 text-accent-ink shadow-2xl lg:hidden">
+          <span className="font-bold">Shiko listën · {rows.length}</span>
+          <span className="tabular font-mono text-lg font-bold">{lek(total)} →</span>
         </button>
       )}
 
       <nav className="fixed inset-x-0 bottom-0 z-40 border-t border-line bg-panel/90 pb-[env(safe-area-inset-bottom)] backdrop-blur-xl lg:hidden">
         <div className="mx-auto grid max-w-md grid-cols-4">
           {[{ id: "catalog" as Tab, label: "Katalogu", icon: LayoutGrid }, ...SIDE_TABS].map((t) => (
-            <button key={t.id} onClick={() => go(t.id)} className={cx("relative flex flex-col items-center gap-0.5 py-2.5 text-[11px] font-semibold transition", tab === t.id ? "text-accent" : "text-mute")}>
-              <t.icon size={22} strokeWidth={tab === t.id ? 2.5 : 2} />
+            <button key={t.id} onClick={() => go(t.id)} className={cx("relative flex flex-col items-center gap-1 py-3 text-xs font-semibold transition", tab === t.id ? "text-accent" : "text-mute")}>
+              <t.icon size={26} strokeWidth={tab === t.id ? 2.5 : 2} />
               {t.label}
               {t.id === "list" && rows.length > 0 && <span className="absolute right-[calc(50%-1.4rem)] top-1.5 min-w-5 rounded-full bg-accent px-1 font-mono text-[10px] leading-5 text-accent-ink">{rows.length}</span>}
             </button>
@@ -147,6 +147,6 @@ export default function App() {
 }
 
 const Chip = ({ active, ...p }: React.ButtonHTMLAttributes<HTMLButtonElement> & { active: boolean }) => (
-  <button {...p} className={cx("shrink-0 whitespace-nowrap rounded-full border px-3.5 py-1.5 text-sm font-semibold transition",
+  <button {...p} className={cx("shrink-0 whitespace-nowrap rounded-full border px-4 py-2.5 text-[15px] font-semibold transition",
     active ? "border-accent bg-accent text-accent-ink" : "border-line bg-panel text-ink hover:border-mute")} />
 );

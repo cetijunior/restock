@@ -39,48 +39,41 @@ export function Catalog({ query, category, sort, onlyListed, onEdit, onNew }: {
 
   let lastCat = "";
   return (
-    <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-panel">
+    <div className="grid grid-cols-2 gap-2.5 sm:grid-cols-3 xl:grid-cols-4">
       {items.map((p) => {
         const header = sort === "category" && p.category !== lastCat ? (lastCat = p.category) : null;
-        return (
-          <li key={p.id}>
-            {header && <div className="sticky top-0 bg-raised px-4 py-1.5 text-[11px] font-bold uppercase tracking-wider text-mute">{header}</div>}
-            <Row p={p} qty={qtyById.get(p.id) ?? 0} onEdit={onEdit} />
-          </li>
-        );
+        return [
+          header && <h3 key={"h" + p.id} className="col-span-full mt-3 px-1 text-xs font-bold uppercase tracking-wider text-mute first:mt-0">{header}</h3>,
+          <Card key={p.id} p={p} qty={qtyById.get(p.id) ?? 0} onEdit={onEdit} />,
+        ];
       })}
-    </ul>
+    </div>
   );
 }
 
-const Row = memo(function Row({ p, qty, onEdit }: { p: Product; qty: number; onEdit: (p: Product) => void }) {
-  const bump = useStore((s) => s.bump);
+const Card = memo(function Card({ p, qty, onEdit }: { p: Product; qty: number; onEdit: (p: Product) => void }) {
   const setQty = useStore((s) => s.setQty);
   const m = margin(p.buy, p.sell);
   return (
-    <div onClick={() => !qty && bump(p.id, 1)}
-      className={cx("group flex cursor-pointer select-none items-center gap-3 px-4 py-3 transition", qty ? "bg-accent/[.07]" : "hover:bg-raised active:bg-raised")}>
-      <div className="relative">
-        <Thumb image={p.image} icon={p.icon} />
-        {qty > 0 && <span className="absolute -right-1.5 -top-1.5 min-w-5 rounded-full bg-accent px-1 text-center font-mono text-[10px] font-semibold leading-5 text-accent-ink ring-2 ring-panel">{qty}</span>}
-      </div>
-      <div className="min-w-0 flex-1">
-        <div className="truncate text-[15px] font-semibold">{p.name}</div>
-        <div className="mt-0.5 flex items-center gap-2 text-xs text-mute">
-          <span className="truncate">{p.category}</span>
-          {p.sell > 0 && <><span>·</span><span className="tabular">shitje {lek(p.sell)}</span></>}
-          {m !== null && <span className={cx("tabular rounded px-1 font-mono text-[10px] font-semibold", m < 10 ? "bg-danger/10 text-danger" : "bg-accent/10 text-accent")}>{m.toFixed(0)}%</span>}
-        </div>
-      </div>
-      <div className="tabular text-right font-mono text-sm font-semibold">{lek(p.buy)}</div>
+    <div onClick={() => !qty && setQty(p.id, 1)} role="button" aria-label={`Shto ${p.name}`}
+      className={cx("relative flex cursor-pointer select-none flex-col rounded-3xl border p-3 transition active:scale-[.98]",
+        qty ? "border-accent bg-accent/[.08] ring-1 ring-accent" : "border-line bg-panel hover:border-mute")}>
       <button aria-label={`Ndrysho ${p.name}`} onClick={(e) => { e.stopPropagation(); onEdit(p); }}
-        className="grid size-8 place-items-center rounded-full text-mute opacity-60 transition hover:bg-line hover:opacity-100 sm:opacity-0 sm:group-hover:opacity-100"><Pencil size={14} /></button>
-      {qty ? (
-        <Stepper qty={qty} onBump={(d) => setQty(p.id, qty + d)} onSet={(n) => setQty(p.id, n)} />
-      ) : (
-        <button aria-label={`Shto ${p.name}`} onClick={(e) => { e.stopPropagation(); bump(p.id, 1); }}
-          className="grid size-9 place-items-center rounded-full border border-line bg-raised text-ink transition group-hover:border-accent group-hover:text-accent"><Plus size={18} strokeWidth={2.5} /></button>
-      )}
+        className="absolute right-1.5 top-1.5 z-10 grid size-10 place-items-center rounded-full text-mute active:bg-line"><Pencil size={16} /></button>
+      {qty > 0 && <span className="anim-pop absolute left-2 top-2 z-10 min-w-8 rounded-full bg-accent px-2 text-center font-mono text-sm font-bold leading-8 text-accent-ink shadow">{qty}</span>}
+      <Thumb image={p.image} icon={p.icon} size="mx-auto mt-1 size-20 text-5xl rounded-2xl" />
+      <div className="mt-2.5 line-clamp-2 min-h-[2.5rem] text-[15px] font-semibold leading-tight">{p.name}</div>
+      <div className="mt-1 flex items-baseline justify-between gap-1">
+        <span className="tabular font-mono text-lg font-bold">{lek(p.buy)}</span>
+        {m !== null && <span className={cx("tabular rounded-md px-1.5 font-mono text-[11px] font-semibold", m < 10 ? "bg-danger/10 text-danger" : "bg-accent/10 text-accent")}>{m.toFixed(0)}%</span>}
+      </div>
+      <div className="mt-2.5">
+        {qty ? (
+          <Stepper qty={qty} size="lg" onBump={(d) => setQty(p.id, qty + d)} onSet={(n) => setQty(p.id, n)} />
+        ) : (
+          <div className="flex h-11 items-center justify-center gap-1.5 rounded-full bg-raised text-sm font-bold text-ink"><Plus size={18} strokeWidth={2.75} /> Shto</div>
+        )}
+      </div>
     </div>
   );
 });

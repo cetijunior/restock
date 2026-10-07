@@ -42,13 +42,13 @@ export function ListPanel({ onBrowse }: { onBrowse: () => void }) {
 
       <ul className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-panel">
         {rows.map(({ product: p, qty }) => (
-          <li key={p.id} className="flex items-center gap-3 px-4 py-2.5">
-            <Thumb image={p.image} icon={p.icon} size="size-9" />
+          <li key={p.id} className="flex items-center gap-3 px-3 py-3">
+            <Thumb image={p.image} icon={p.icon} size="size-14 text-3xl" />
             <div className="min-w-0 flex-1">
-              <div className="truncate text-sm font-semibold">{p.name}</div>
+              <div className="line-clamp-2 text-[15px] font-semibold leading-tight">{p.name}</div>
               <div className="tabular font-mono text-xs text-mute">{qty} × {lek(p.buy)} = <span className="text-ink">{lek(qty * p.buy)}</span></div>
             </div>
-            <Stepper qty={qty} onBump={(d) => setQty(p.id, qty + d)} onSet={(n) => setQty(p.id, n)} />
+            <Stepper qty={qty} size="lg" onBump={(d) => setQty(p.id, qty + d)} onSet={(n) => setQty(p.id, n)} />
           </li>
         ))}
       </ul>
