@@ -1,0 +1,2602 @@
+[
+ {
+  "id": "marlboro-blu-4",
+  "name": "Marlboro Blu 4",
+  "category": "Cigare & Duhan",
+  "buy": 350,
+  "sell": 370,
+  "icon": "🚬"
+ },
+ {
+  "id": "marlboro-e-zeze",
+  "name": "Marlboro e Zeze",
+  "category": "Cigare & Duhan",
+  "buy": 480,
+  "sell": 550,
+  "icon": "🚬"
+ },
+ {
+  "id": "lucky-strike",
+  "name": "Lucky Strike",
+  "category": "Cigare & Duhan",
+  "buy": 250,
+  "sell": 280,
+  "icon": "🚬"
+ },
+ {
+  "id": "slims-eva",
+  "name": "Slims Eva",
+  "category": "Cigare & Duhan",
+  "buy": 240,
+  "sell": 260,
+  "icon": "🚬"
+ },
+ {
+  "id": "philip-4",
+  "name": "Philip 4",
+  "category": "Cigare & Duhan",
+  "buy": 270,
+  "sell": 300,
+  "icon": "🚬"
+ },
+ {
+  "id": "philip-6",
+  "name": "Philip 6",
+  "category": "Cigare & Duhan",
+  "buy": 270,
+  "sell": 300,
+  "icon": "🚬"
+ },
+ {
+  "id": "slims-gold",
+  "name": "Slims Gold",
+  "category": "Cigare & Duhan",
+  "buy": 295,
+  "sell": 320,
+  "icon": "🚬"
+ },
+ {
+  "id": "philip-normal",
+  "name": "Philip Normal",
+  "category": "Cigare & Duhan",
+  "buy": 290,
+  "sell": 310,
+  "icon": "🚬"
+ },
+ {
+  "id": "dunhill",
+  "name": "Dunhill",
+  "category": "Cigare & Duhan",
+  "buy": 380,
+  "sell": 400,
+  "icon": "🚬"
+ },
+ {
+  "id": "winston-blu",
+  "name": "Winston Blu",
+  "category": "Cigare & Duhan",
+  "buy": 285,
+  "sell": 310,
+  "icon": "🚬"
+ },
+ {
+  "id": "winston-gri",
+  "name": "Winston Gri",
+  "category": "Cigare & Duhan",
+  "buy": 260,
+  "sell": 280,
+  "icon": "🚬"
+ },
+ {
+  "id": "marlboro-kuqe",
+  "name": "Marlboro Kuqe",
+  "category": "Cigare & Duhan",
+  "buy": 380,
+  "sell": 400,
+  "icon": "🚬"
+ },
+ {
+  "id": "marlboro-gold",
+  "name": "Marlboro Gold",
+  "category": "Cigare & Duhan",
+  "buy": 380,
+  "sell": 400,
+  "icon": "🚬"
+ },
+ {
+  "id": "karrelia-kuqe",
+  "name": "Karrelia Kuqe",
+  "category": "Cigare & Duhan",
+  "buy": 240,
+  "sell": 260,
+  "icon": "🚬"
+ },
+ {
+  "id": "lexhera",
+  "name": "Lexhera",
+  "category": "Cigare & Duhan",
+  "buy": 280,
+  "sell": 310,
+  "icon": "🚬"
+ },
+ {
+  "id": "marlboro-6",
+  "name": "Marlboro 6",
+  "category": "Cigare & Duhan",
+  "buy": 350,
+  "sell": 370,
+  "icon": "🚬"
+ },
+ {
+  "id": "orbit",
+  "name": "Orbit",
+  "category": "Cigare & Duhan",
+  "buy": 40,
+  "sell": 60,
+  "icon": "🍬",
+  "image": "https://images.openfoodfacts.org/images/products/400/990/049/2447/front_pl.3.400.jpg"
+ },
+ {
+  "id": "orbit-pako",
+  "name": "Orbit pako",
+  "category": "Cigare & Duhan",
+  "buy": 250,
+  "sell": 280,
+  "icon": "🍬"
+ },
+ {
+  "id": "shkrepse",
+  "name": "Shkrepse",
+  "category": "Të Tjera",
+  "buy": 30,
+  "sell": 50,
+  "icon": "🔥"
+ },
+ {
+  "id": "cumcakiz-vipa",
+  "name": "Cumcakiz vipa",
+  "category": "Embelsira",
+  "buy": 15,
+  "sell": 20,
+  "icon": "🍬"
+ },
+ {
+  "id": "guri-i-zi",
+  "name": "Guri I Zi",
+  "category": "Të Tjera",
+  "buy": 330,
+  "sell": 350,
+  "icon": "🧷"
+ },
+ {
+  "id": "cakmak-bic",
+  "name": "Cakmak Bic",
+  "category": "Cigare & Duhan",
+  "buy": 40,
+  "sell": 60,
+  "icon": "🔥"
+ },
+ {
+  "id": "cakmak-i-thjesht",
+  "name": "Cakmak I Thjesht",
+  "category": "Cigare & Duhan",
+  "buy": 30,
+  "sell": 50,
+  "icon": "🔥"
+ },
+ {
+  "id": "ocb",
+  "name": "Ocb",
+  "category": "Cigare & Duhan",
+  "buy": 40,
+  "sell": 60,
+  "icon": "🚬"
+ },
+ {
+  "id": "rizla",
+  "name": "Rizla",
+  "category": "Cigare & Duhan",
+  "buy": 80,
+  "sell": 120,
+  "icon": "🚬"
+ },
+ {
+  "id": "letra-duhani",
+  "name": "Letra Duhani",
+  "category": "Cigare & Duhan",
+  "buy": 40,
+  "sell": 60,
+  "icon": "🚬"
+ },
+ {
+  "id": "grand-i-gatshem",
+  "name": "Grand I Gatshem",
+  "category": "Të Tjera",
+  "buy": 130,
+  "sell": 150,
+  "icon": "🧷"
+ },
+ {
+  "id": "grand-i-holle",
+  "name": "Grand I holle",
+  "category": "Të Tjera",
+  "buy": 130,
+  "sell": 150,
+  "icon": "🧷"
+ },
+ {
+  "id": "grand-i-trashe",
+  "name": "Grand I trashe",
+  "category": "Të Tjera",
+  "buy": 110,
+  "sell": 130,
+  "icon": "🧷"
+ },
+ {
+  "id": "shtupa",
+  "name": "Shtupa",
+  "category": "Të Tjera",
+  "buy": 200,
+  "sell": 250,
+  "icon": "🧽"
+ },
+ {
+  "id": "pipa",
+  "name": "Pipa",
+  "category": "Të Tjera",
+  "buy": 50,
+  "sell": 70,
+  "icon": "🚬"
+ },
+ {
+  "id": "sfungjer-1-1",
+  "name": "Sfungjer 1+1",
+  "category": "Aksesore Shtëpie",
+  "buy": 50,
+  "sell": 70,
+  "icon": "🧽"
+ },
+ {
+  "id": "sfungjer-i-thjeshte",
+  "name": "Sfungjer I thjeshte",
+  "category": "Aksesore Shtëpie",
+  "buy": 8,
+  "sell": 10,
+  "icon": "🧽"
+ },
+ {
+  "id": "tel-enesh",
+  "name": "Tel enesh",
+  "category": "Aksesore Shtëpie",
+  "buy": 20,
+  "sell": 30,
+  "icon": "🧽"
+ },
+ {
+  "id": "drago",
+  "name": "Drago",
+  "category": "Pije Freskuese",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🪰"
+ },
+ {
+  "id": "qirinj",
+  "name": "Qirinj",
+  "category": "Aksesore Shtëpie",
+  "buy": 18,
+  "sell": 25,
+  "icon": "🕯️"
+ },
+ {
+  "id": "kunja-veshesh",
+  "name": "Kunja veshesh",
+  "category": "Të Tjera",
+  "buy": 60,
+  "sell": 80,
+  "icon": "🧷"
+ },
+ {
+  "id": "kunja-dhembesh",
+  "name": "Kunja dhembesh",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🪥"
+ },
+ {
+  "id": "doreza-pune",
+  "name": "Doreza pune",
+  "category": "Aksesore Shtëpie",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🧤"
+ },
+ {
+  "id": "atak-i-vogel",
+  "name": "Atak I vogel",
+  "category": "Të Tjera",
+  "buy": 25,
+  "sell": 30,
+  "icon": "🪰"
+ },
+ {
+  "id": "atak-i-madh",
+  "name": "Atak I madh",
+  "category": "Të Tjera",
+  "buy": 30,
+  "sell": 50,
+  "icon": "🪰"
+ },
+ {
+  "id": "big-astor",
+  "name": "Big astor",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🪒"
+ },
+ {
+  "id": "big-gillete",
+  "name": "Big gillete",
+  "category": "Të Tjera",
+  "buy": 270,
+  "sell": 360,
+  "icon": "🪒"
+ },
+ {
+  "id": "petal-e-vogel",
+  "name": "Petal e vogel",
+  "category": "Bukë & Miell",
+  "buy": 15,
+  "sell": 20,
+  "icon": "🍝"
+ },
+ {
+  "id": "brisk-astra",
+  "name": "Brisk astra",
+  "category": "Të Tjera",
+  "buy": 40,
+  "sell": 50,
+  "icon": "🪒"
+ },
+ {
+  "id": "boje-kepucesh",
+  "name": "Boje kepucesh",
+  "category": "Të Tjera",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🧷"
+ },
+ {
+  "id": "prerse-thonjsh-e-vogel",
+  "name": "Prerse thonjsh e vogel",
+  "category": "Të Tjera",
+  "buy": 40,
+  "sell": 50,
+  "icon": "🧷"
+ },
+ {
+  "id": "prerse-thonjsh-e-madhe",
+  "name": "Prerse thonjsh e madhe",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🧷"
+ },
+ {
+  "id": "bateri-toshiba-te-vogla",
+  "name": "Bateri toshiba te vogla",
+  "category": "Elektrike & Tjera",
+  "buy": 25,
+  "sell": 50,
+  "icon": "🔋"
+ },
+ {
+  "id": "bateri-toshiba-te-medha",
+  "name": "Bateri toshiba te medha",
+  "category": "Elektrike & Tjera",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🔋"
+ },
+ {
+  "id": "vere-e-kuqe-kantina-juli",
+  "name": "Vere e kuqe Kantina Juli",
+  "category": "Të Tjera",
+  "buy": 460,
+  "sell": 600,
+  "icon": "🍷"
+ },
+ {
+  "id": "fshesa",
+  "name": "Fshesa",
+  "category": "Të Tjera",
+  "buy": 200,
+  "sell": 250,
+  "icon": "🧹"
+ },
+ {
+  "id": "bisht-i-kuq",
+  "name": "Bisht I kuq",
+  "category": "Të Tjera",
+  "buy": 100,
+  "sell": 130,
+  "icon": "🧹"
+ },
+ {
+  "id": "bisht-i-holl",
+  "name": "Bisht I holl",
+  "category": "Të Tjera",
+  "buy": 100,
+  "sell": 130,
+  "icon": "🧹"
+ },
+ {
+  "id": "fresh-per-banjo",
+  "name": "Fresh per banjo",
+  "category": "Pije Freskuese",
+  "buy": 180,
+  "sell": 220,
+  "icon": "🧽"
+ },
+ {
+  "id": "head-and-shoulder",
+  "name": "Head and shoulder",
+  "category": "Të Tjera",
+  "buy": 330,
+  "sell": 380,
+  "icon": "🧴"
+ },
+ {
+  "id": "wash-and-go-vogel",
+  "name": "Wash and go vogel",
+  "category": "Pije Freskuese",
+  "buy": 220,
+  "sell": 260,
+  "icon": "🧴"
+ },
+ {
+  "id": "wash-and-go-e-madhe",
+  "name": "Wash and go e madhe",
+  "category": "Pije Freskuese",
+  "buy": 300,
+  "sell": 360,
+  "icon": "🧴"
+ },
+ {
+  "id": "palmolive",
+  "name": "Palmolive",
+  "category": "Të Tjera",
+  "buy": 130,
+  "sell": 170,
+  "icon": "🧴"
+ },
+ {
+  "id": "dimension",
+  "name": "Dimension",
+  "category": "Higjiene Personale",
+  "buy": 130,
+  "sell": 160,
+  "icon": "🧴"
+ },
+ {
+  "id": "ultrex",
+  "name": "Ultrex",
+  "category": "Higjiene Personale",
+  "buy": 300,
+  "sell": 350,
+  "icon": "🧴"
+ },
+ {
+  "id": "panten-i-vogel",
+  "name": "Panten i vogel",
+  "category": "Higjiene Personale",
+  "buy": 320,
+  "sell": 380,
+  "icon": "🧴"
+ },
+ {
+  "id": "panten-i-madh",
+  "name": "Panten i madh",
+  "category": "Higjiene Personale",
+  "buy": 500,
+  "sell": 550,
+  "icon": "🧴"
+ },
+ {
+  "id": "johnson-i-vogel",
+  "name": "Johnson I vogel",
+  "category": "Higjiene Personale",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧴"
+ },
+ {
+  "id": "krem-gaia",
+  "name": "Krem gaia",
+  "category": "Higjiene Personale",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🧴"
+ },
+ {
+  "id": "ilac-mizash-i-vogel",
+  "name": "Ilac mizash I vogel",
+  "category": "Të Tjera",
+  "buy": 140,
+  "sell": 180,
+  "icon": "🪰"
+ },
+ {
+  "id": "ilac-mizash-i-madh",
+  "name": "Ilac mizash I madh",
+  "category": "Të Tjera",
+  "buy": 170,
+  "sell": 220,
+  "icon": "🪰"
+ },
+ {
+  "id": "skoc-i-madh",
+  "name": "Skoc I madh",
+  "category": "Të Tjera",
+  "buy": 50,
+  "sell": 70,
+  "icon": "🩹"
+ },
+ {
+  "id": "skoc-i-vogel",
+  "name": "Skoc I vogel",
+  "category": "Të Tjera",
+  "buy": 30,
+  "sell": 50,
+  "icon": "🩹"
+ },
+ {
+  "id": "izolant-i-zi",
+  "name": "Izolant I zi",
+  "category": "Të Tjera",
+  "buy": 40,
+  "sell": 50,
+  "icon": "🩹"
+ },
+ {
+  "id": "bombula-gazi-elka",
+  "name": "Bombula gazi elka",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "⛽"
+ },
+ {
+  "id": "dorreza-llastiku",
+  "name": "Dorreza llastiku",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🧤"
+ },
+ {
+  "id": "gota-plastike",
+  "name": "Gota plastike",
+  "category": "Pije Freskuese",
+  "buy": 62,
+  "sell": 100,
+  "icon": "🥡"
+ },
+ {
+  "id": "gota-kafeje",
+  "name": "Gota kafeje",
+  "category": "Pije Freskuese",
+  "buy": 62,
+  "sell": 100,
+  "icon": "☕"
+ },
+ {
+  "id": "leter-plastike-rimmed",
+  "name": "Leter plastike rimmed",
+  "category": "Aksesore Shtëpie",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🥡"
+ },
+ {
+  "id": "leter-alumini-rimmed",
+  "name": "Leter alumini rimmed",
+  "category": "Aksesore Shtëpie",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🥡"
+ },
+ {
+  "id": "leter-pjekje-rimmed",
+  "name": "Leter pjekje rimmed",
+  "category": "Aksesore Shtëpie",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🥡"
+ },
+ {
+  "id": "sapun-duru",
+  "name": "Sapun duru",
+  "category": "Higjiene Personale",
+  "buy": 142,
+  "sell": 220,
+  "icon": "🧼"
+ },
+ {
+  "id": "sapun-palmolive",
+  "name": "Sapun palmolive",
+  "category": "Higjiene Personale",
+  "buy": 40,
+  "sell": 60,
+  "icon": "🧼"
+ },
+ {
+  "id": "sapun-dove",
+  "name": "Sapun dove",
+  "category": "Higjiene Personale",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🧼"
+ },
+ {
+  "id": "letra-tlagura-te-medhaja",
+  "name": "Letra tlagura te medhaja",
+  "category": "Të Tjera",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🧻"
+ },
+ {
+  "id": "letra-te-lagura-te-vogla",
+  "name": "Letra te lagura te vogla",
+  "category": "Të Tjera",
+  "buy": 20,
+  "sell": 40,
+  "icon": "🧻"
+ },
+ {
+  "id": "lines-everyday",
+  "name": "Lines everyday",
+  "category": "Higjiene Personale",
+  "buy": 135,
+  "sell": 170,
+  "icon": "🧻"
+ },
+ {
+  "id": "kana",
+  "name": "Kana",
+  "category": "Të Tjera",
+  "buy": 30,
+  "sell": 50,
+  "icon": "🧻"
+ },
+ {
+  "id": "disar-sunscream",
+  "name": "Disar sunscream",
+  "category": "Të Tjera",
+  "buy": 550,
+  "sell": 700,
+  "icon": "🧴"
+ },
+ {
+  "id": "nivea-black-and-white-sprite",
+  "name": "Nivea black and white sprite",
+  "category": "Higjiene Personale",
+  "buy": 270,
+  "sell": 320,
+  "icon": "🧴"
+ },
+ {
+  "id": "nivea-black-and-white-rul",
+  "name": "Nivea black and white rul",
+  "category": "Higjiene Personale",
+  "buy": 320,
+  "sell": 350,
+  "icon": "🧴"
+ },
+ {
+  "id": "axe",
+  "name": "Axe",
+  "category": "Higjiene Personale",
+  "buy": 250,
+  "sell": 300,
+  "icon": "🧴"
+ },
+ {
+  "id": "sapun-dermomed",
+  "name": "Sapun dermomed",
+  "category": "Higjiene Personale",
+  "buy": 180,
+  "sell": 240,
+  "icon": "🧼"
+ },
+ {
+  "id": "sapun-rimmed",
+  "name": "Sapun rimmed",
+  "category": "Higjiene Personale",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧼"
+ },
+ {
+  "id": "sapun-liquido",
+  "name": "Sapun liquido",
+  "category": "Higjiene Personale",
+  "buy": 125,
+  "sell": 160,
+  "icon": "🧼"
+ },
+ {
+  "id": "abc-3-kg",
+  "name": "Abc 3 kg",
+  "category": "Pastrim",
+  "buy": 420,
+  "sell": 500,
+  "icon": "🧺"
+ },
+ {
+  "id": "bingo-3kg",
+  "name": "Bingo 3kg",
+  "category": "Pije Freskuese",
+  "buy": 400,
+  "sell": 520,
+  "icon": "🧺"
+ },
+ {
+  "id": "detergjend-alpha",
+  "name": "Detergjend alpha",
+  "category": "Të Tjera",
+  "buy": 520,
+  "sell": 600,
+  "icon": "🧺"
+ },
+ {
+  "id": "deka-vogel-lavatrice",
+  "name": "Deka vogel lavatrice",
+  "category": "Pastrim",
+  "buy": 200,
+  "sell": 230,
+  "icon": "🧺"
+ },
+ {
+  "id": "deka-dore",
+  "name": "Deka dore",
+  "category": "Pastrim",
+  "buy": 95,
+  "sell": 130,
+  "icon": "🧺"
+ },
+ {
+  "id": "ace-blu-e-madhe",
+  "name": "Ace blu e madhe",
+  "category": "Pastrim",
+  "buy": 290,
+  "sell": 320,
+  "icon": "🧺"
+ },
+ {
+  "id": "ace-blu-e-vogel",
+  "name": "Ace blu e vogel",
+  "category": "Pastrim",
+  "buy": 70,
+  "sell": 110,
+  "icon": "🧺"
+ },
+ {
+  "id": "acit-i-kuq",
+  "name": "Acit I kuq",
+  "category": "Të Tjera",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🧺"
+ },
+ {
+  "id": "puliorapid",
+  "name": "Puliorapid",
+  "category": "Pastrim",
+  "buy": 240,
+  "sell": 290,
+  "icon": "🧽"
+ },
+ {
+  "id": "lenor-i-madh",
+  "name": "Lenor I madh",
+  "category": "Të Tjera",
+  "buy": 400,
+  "sell": 500,
+  "icon": "🧺"
+ },
+ {
+  "id": "lenor-i-vogel",
+  "name": "Lenor I vogel",
+  "category": "Të Tjera",
+  "buy": 300,
+  "sell": 400,
+  "icon": "🧺"
+ },
+ {
+  "id": "semana",
+  "name": "Semana",
+  "category": "Të Tjera",
+  "buy": 420,
+  "sell": 500,
+  "icon": "🧺"
+ },
+ {
+  "id": "ajax-pllakash",
+  "name": "Ajax pllakash",
+  "category": "Pastrim",
+  "buy": 160,
+  "sell": 220,
+  "icon": "🧽"
+ },
+ {
+  "id": "ajax-xhamash",
+  "name": "Ajax xhamash",
+  "category": "Pastrim",
+  "buy": 170,
+  "sell": 250,
+  "icon": "🧽"
+ },
+ {
+  "id": "mastro-lindo",
+  "name": "Mastro lindo",
+  "category": "Pastrim",
+  "buy": 170,
+  "sell": 220,
+  "icon": "🧽"
+ },
+ {
+  "id": "melias-grasatore",
+  "name": "Melias grasatore",
+  "category": "Pastrim",
+  "buy": 260,
+  "sell": 320,
+  "icon": "🧽"
+ },
+ {
+  "id": "fairy-i-madh",
+  "name": "Fairy I madh",
+  "category": "Pastrim",
+  "buy": 210,
+  "sell": 250,
+  "icon": "🧽"
+ },
+ {
+  "id": "fairy-i-vogel",
+  "name": "Fairy I vogel",
+  "category": "Pastrim",
+  "buy": 110,
+  "sell": 160,
+  "icon": "🧽"
+ },
+ {
+  "id": "test-enesh",
+  "name": "Test enesh",
+  "category": "Aksesore Shtëpie",
+  "buy": 40,
+  "sell": 80,
+  "icon": "🧷"
+ },
+ {
+  "id": "gurabie-te-bardha",
+  "name": "Gurabie te bardha",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🍪"
+ },
+ {
+  "id": "gurabie-te-kuqe",
+  "name": "Gurabie te kuqe",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🍪"
+ },
+ {
+  "id": "biskota-tagani",
+  "name": "Biskota tagani",
+  "category": "Embelsira",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🍪"
+ },
+ {
+  "id": "biskota-tagani-te-medhaja",
+  "name": "Biskota tagani te medhaja",
+  "category": "Embelsira",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🍪"
+ },
+ {
+  "id": "llokume-suxhuk",
+  "name": "Llokume suxhuk",
+  "category": "Embelsira",
+  "buy": 280,
+  "sell": 320,
+  "icon": "🧁"
+ },
+ {
+  "id": "rafaelo-kuti",
+  "name": "Rafaelo kuti",
+  "category": "Embelsira",
+  "buy": 400,
+  "sell": 450,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/800/050/002/3976/front_en.334.400.jpg"
+ },
+ {
+  "id": "biskota-bebi",
+  "name": "Biskota bebi",
+  "category": "Embelsira",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🍪"
+ },
+ {
+  "id": "mix-magic",
+  "name": "Mix magic",
+  "category": "Embelsira",
+  "buy": 150,
+  "sell": 180,
+  "icon": "🍬"
+ },
+ {
+  "id": "llokume-me-arra",
+  "name": "Llokume me arra",
+  "category": "Embelsira",
+  "buy": 100,
+  "sell": 150,
+  "icon": "🥜"
+ },
+ {
+  "id": "dolce-mia",
+  "name": "Dolce mia",
+  "category": "Embelsira",
+  "buy": 80,
+  "sell": 120,
+  "icon": "🧁"
+ },
+ {
+  "id": "kek-big-roll",
+  "name": "kek big roll",
+  "category": "Pasticeri",
+  "buy": 80,
+  "sell": 120,
+  "icon": "🧁"
+ },
+ {
+  "id": "karramele-me-xhel",
+  "name": "Karramele me xhel",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🥜"
+ },
+ {
+  "id": "karramele-te-lira",
+  "name": "Karramele te lira",
+  "category": "Të Tjera",
+  "buy": 80,
+  "sell": 120,
+  "icon": "🥜"
+ },
+ {
+  "id": "kadaif-i-lire",
+  "name": "Kadaif I lire",
+  "category": "Të Tjera",
+  "buy": 140,
+  "sell": 180,
+  "icon": "🧁"
+ },
+ {
+  "id": "kadaif-me-peta",
+  "name": "Kadaif me peta",
+  "category": "Bukë & Miell",
+  "buy": 200,
+  "sell": 250,
+  "icon": "🍝"
+ },
+ {
+  "id": "miell-universal",
+  "name": "Miell universal",
+  "category": "Bukë & Miell",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🌾"
+ },
+ {
+  "id": "miell-prima",
+  "name": "Miell prima",
+  "category": "Bukë & Miell",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🌾"
+ },
+ {
+  "id": "miell-diamand",
+  "name": "Miell diamand",
+  "category": "Bukë & Miell",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🌾"
+ },
+ {
+  "id": "miell-ola",
+  "name": "Miell ola",
+  "category": "Bukë & Miell",
+  "buy": 100,
+  "sell": 130,
+  "icon": "🌾"
+ },
+ {
+  "id": "sheqer-king",
+  "name": "Sheqer king",
+  "category": "Të Tjera",
+  "buy": 80,
+  "sell": 100,
+  "icon": "🧂"
+ },
+ {
+  "id": "niseshte-teuta",
+  "name": "Niseshte teuta",
+  "category": "Erza & Gatim",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🌾"
+ },
+ {
+  "id": "trahana",
+  "name": "Trahana",
+  "category": "Thatë & Konservuar",
+  "buy": 60,
+  "sell": 80,
+  "icon": "🍚"
+ },
+ {
+  "id": "misir",
+  "name": "Misir",
+  "category": "Të Tjera",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🌽"
+ },
+ {
+  "id": "grure",
+  "name": "Grure",
+  "category": "Thatë & Konservuar",
+  "buy": 60,
+  "sell": 100,
+  "icon": "🍚"
+ },
+ {
+  "id": "kafe-millenium",
+  "name": "Kafe millenium",
+  "category": "Të Tjera",
+  "buy": 90,
+  "sell": 120,
+  "icon": "☕"
+ },
+ {
+  "id": "lori-kafe",
+  "name": "Lori kafe",
+  "category": "Të Tjera",
+  "buy": 125,
+  "sell": 150,
+  "icon": "☕"
+ },
+ {
+  "id": "mulliri-vjeter",
+  "name": "Mulliri vjeter",
+  "category": "Vaj & Yndyre",
+  "buy": 130,
+  "sell": 150,
+  "icon": "☕"
+ },
+ {
+  "id": "kafe-paskalin",
+  "name": "Kafe Paskalin",
+  "category": "Të Tjera",
+  "buy": 120,
+  "sell": 140,
+  "icon": "☕"
+ },
+ {
+  "id": "kafe-pazari-i-ri",
+  "name": "Kafe Pazari I ri",
+  "category": "Të Tjera",
+  "buy": 85,
+  "sell": 110,
+  "icon": "☕"
+ },
+ {
+  "id": "krip-e-bardhe",
+  "name": "Krip e bardhe",
+  "category": "Erza & Gatim",
+  "buy": 20,
+  "sell": 30,
+  "icon": "🧂"
+ },
+ {
+  "id": "krip-e-zeze",
+  "name": "Krip e zeze",
+  "category": "Erza & Gatim",
+  "buy": 20,
+  "sell": 30,
+  "icon": "🧂"
+ },
+ {
+  "id": "bravo-molle-kanace",
+  "name": "Bravo molle kanace",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "bravo-pjeshke-kanace",
+  "name": "Bravo pjeshke kanace",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "bravo-rrushi-kanace",
+  "name": "Bravo rrushi kanace",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "kola-kanace",
+  "name": "Kola kanace",
+  "category": "Pije Freskuese",
+  "buy": 60,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "fanta-ekzotik-kanace",
+  "name": "Fanta ekzotik kanace",
+  "category": "Pije Freskuese",
+  "buy": 60,
+  "sell": 90,
+  "icon": "🥤",
+  "image": "https://images.openfoodfacts.org/images/products/500/011/251/4124/front_de.34.400.jpg"
+ },
+ {
+  "id": "fanta-portokall-kanace",
+  "name": "Fanta portokall kanace",
+  "category": "Pije Freskuese",
+  "buy": 60,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "b52",
+  "name": "B52",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 90,
+  "icon": "⚡"
+ },
+ {
+  "id": "golden-eagle",
+  "name": "Golden eagle",
+  "category": "Pije Freskuese",
+  "buy": 50,
+  "sell": 80,
+  "icon": "⚡"
+ },
+ {
+  "id": "ivi-kajsi-kanace",
+  "name": "Ivi kajsi kanace",
+  "category": "Pije Freskuese",
+  "buy": 55,
+  "sell": 80,
+  "icon": "🥤"
+ },
+ {
+  "id": "limon-soda",
+  "name": "Limon soda",
+  "category": "Pije Freskuese",
+  "buy": 55,
+  "sell": 80,
+  "icon": "🥤"
+ },
+ {
+  "id": "orange-soda",
+  "name": "Orange soda",
+  "category": "Pije Freskuese",
+  "buy": 55,
+  "sell": 80,
+  "icon": "🥤"
+ },
+ {
+  "id": "kafe-e-fohte-nescafe",
+  "name": "Kafe e fohte nescafe",
+  "category": "Të Tjera",
+  "buy": 130,
+  "sell": 170,
+  "icon": "☕"
+ },
+ {
+  "id": "red-bull",
+  "name": "Red bull",
+  "category": "Pije Freskuese",
+  "buy": 106,
+  "sell": 170,
+  "icon": "⚡",
+  "image": "https://images.openfoodfacts.org/images/products/000/009/016/2909/front_en.122.400.jpg"
+ },
+ {
+  "id": "pitbull-i-vogel",
+  "name": "Pitbull I vogel",
+  "category": "Pije Freskuese",
+  "buy": 35,
+  "sell": 50,
+  "icon": "⚡"
+ },
+ {
+  "id": "caj-san-bendeto-i-vogel",
+  "name": "Caj San Bendeto I Vogel",
+  "category": "Cajra & Lëngje",
+  "buy": 60,
+  "sell": 80,
+  "icon": "🍵"
+ },
+ {
+  "id": "caj-san-bendeto-i-madh",
+  "name": "Caj San Bendeto I Madh",
+  "category": "Cajra & Lëngje",
+  "buy": 90,
+  "sell": 130,
+  "icon": "🍵"
+ },
+ {
+  "id": "sola-kanace",
+  "name": "Sola kanace",
+  "category": "Pije Freskuese",
+  "buy": 50,
+  "sell": 70,
+  "icon": "🥤"
+ },
+ {
+  "id": "sola-0-5",
+  "name": "Sola 0.5",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🥤"
+ },
+ {
+  "id": "sola-1-5",
+  "name": "Sola 1.5",
+  "category": "Pije Freskuese",
+  "buy": 130,
+  "sell": 160,
+  "icon": "🥤"
+ },
+ {
+  "id": "amita-qershi-e-vogel",
+  "name": "Amita Qershi e vogel",
+  "category": "Pije Freskuese",
+  "buy": 54,
+  "sell": 70,
+  "icon": "🥤"
+ },
+ {
+  "id": "amita-pjeshke-e-vogel",
+  "name": "Amita Pjeshke e vogel",
+  "category": "Pije Freskuese",
+  "buy": 54,
+  "sell": 70,
+  "icon": "🥤"
+ },
+ {
+  "id": "amita-pjeshke-e-madhe",
+  "name": "Amita Pjeshke e madhe",
+  "category": "Pije Freskuese",
+  "buy": 155,
+  "sell": 180,
+  "icon": "🥤"
+ },
+ {
+  "id": "amita-qershi-e-madhe",
+  "name": "Amita Qershi e madhe",
+  "category": "Pije Freskuese",
+  "buy": 155,
+  "sell": 180,
+  "icon": "🥤"
+ },
+ {
+  "id": "amita-santa-e-madhe",
+  "name": "Amita Santa e madhe",
+  "category": "Pije Freskuese",
+  "buy": 170,
+  "sell": 200,
+  "icon": "🥤"
+ },
+ {
+  "id": "fresh-kola",
+  "name": "Fresh Kola",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🥤"
+ },
+ {
+  "id": "rico-fresh",
+  "name": "Rico Fresh",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🥤"
+ },
+ {
+  "id": "fresh-limon",
+  "name": "Fresh Limon",
+  "category": "Pije Freskuese",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🥤"
+ },
+ {
+  "id": "go",
+  "name": "Go +",
+  "category": "Pije Freskuese",
+  "buy": 50,
+  "sell": 70,
+  "icon": "⚡"
+ },
+ {
+  "id": "uje-0-5",
+  "name": "Uje 0.5",
+  "category": "Pije Freskuese",
+  "buy": 25,
+  "sell": 50,
+  "icon": "💧"
+ },
+ {
+  "id": "uje-1-5",
+  "name": "Uje 1.5",
+  "category": "Pije Freskuese",
+  "buy": 45,
+  "sell": 70,
+  "icon": "💧"
+ },
+ {
+  "id": "uje-i-gazuar-0-5",
+  "name": "Uje I Gazuar 0.5",
+  "category": "Pije Freskuese",
+  "buy": 28,
+  "sell": 50,
+  "icon": "💧"
+ },
+ {
+  "id": "uje-i-gazuar-1-5",
+  "name": "Uje I Gazuar 1.5",
+  "category": "Pije Freskuese",
+  "buy": 55,
+  "sell": 70,
+  "icon": "💧"
+ },
+ {
+  "id": "milka",
+  "name": "Milka",
+  "category": "Të Tjera",
+  "buy": 125,
+  "sell": 140,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/762/220/225/7759/front_nl.20.400.jpg"
+ },
+ {
+  "id": "kakao-e-thjesht",
+  "name": "Kakao e thjesht",
+  "category": "Të Tjera",
+  "buy": 70,
+  "sell": 100,
+  "icon": "🍫"
+ },
+ {
+  "id": "vaj-olim",
+  "name": "Vaj Olim",
+  "category": "Erza & Gatim",
+  "buy": 190,
+  "sell": 210,
+  "icon": "🫒"
+ },
+ {
+  "id": "vaj-floriol",
+  "name": "Vaj Floriol",
+  "category": "Erza & Gatim",
+  "buy": 200,
+  "sell": 220,
+  "icon": "🫒"
+ },
+ {
+  "id": "sallate-turshi-e-madhe",
+  "name": "Sallate Turshi e madhe",
+  "category": "Salca & Turshi",
+  "buy": 270,
+  "sell": 320,
+  "icon": "🥛"
+ },
+ {
+  "id": "sallate-turshi-e-vogel",
+  "name": "Sallate Turshi e vogel",
+  "category": "Salca & Turshi",
+  "buy": 140,
+  "sell": 170,
+  "icon": "🥛"
+ },
+ {
+  "id": "kastravec-turshi-i-madh",
+  "name": "Kastravec Turshi I madh",
+  "category": "Salca & Turshi",
+  "buy": 320,
+  "sell": 400,
+  "icon": "🥒"
+ },
+ {
+  "id": "kastravec-turshi-i-vogel",
+  "name": "Kastravec Turshi I vogel",
+  "category": "Salca & Turshi",
+  "buy": 140,
+  "sell": 170,
+  "icon": "🥒"
+ },
+ {
+  "id": "spec-marinade-e-madhe",
+  "name": "Spec Marinade e madhe",
+  "category": "Erza & Gatim",
+  "buy": 320,
+  "sell": 400,
+  "icon": "🌶️"
+ },
+ {
+  "id": "spec-marinade-e-vogel",
+  "name": "Spec Marinade e vogel",
+  "category": "Erza & Gatim",
+  "buy": 140,
+  "sell": 170,
+  "icon": "🌶️"
+ },
+ {
+  "id": "cokokrem-daily",
+  "name": "Cokokrem Daily",
+  "category": "Të Tjera",
+  "buy": 180,
+  "sell": 220,
+  "icon": "🍫"
+ },
+ {
+  "id": "nutella-400g",
+  "name": "Nutella 400g",
+  "category": "Aksesore Shtëpie",
+  "buy": 310,
+  "sell": 380,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/301/762/042/2003/front_en.879.400.jpg"
+ },
+ {
+  "id": "bitao",
+  "name": "Bitao",
+  "category": "Të Tjera",
+  "buy": 140,
+  "sell": 170,
+  "icon": "🍫"
+ },
+ {
+  "id": "spec-djeges",
+  "name": "Spec djeges",
+  "category": "Erza & Gatim",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🌶️"
+ },
+ {
+  "id": "krem-karamel",
+  "name": "Krem karamel",
+  "category": "Të Tjera",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🧁"
+ },
+ {
+  "id": "qumesht-panda",
+  "name": "Qumesht panda",
+  "category": "Thatë & Konservuar",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🥛"
+ },
+ {
+  "id": "hopla",
+  "name": "Hopla",
+  "category": "Thatë & Konservuar",
+  "buy": 210,
+  "sell": 260,
+  "icon": "🥛"
+ },
+ {
+  "id": "miser-i-koncervuar",
+  "name": "Miser I koncervuar",
+  "category": "Thatë & Konservuar",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🌽"
+ },
+ {
+  "id": "koncerva-peshku",
+  "name": "Koncerva peshku",
+  "category": "Të Tjera",
+  "buy": 60,
+  "sell": 100,
+  "icon": "🐟"
+ },
+ {
+  "id": "ton-i-koncervuar",
+  "name": "Ton I koncervuar",
+  "category": "Thatë & Konservuar",
+  "buy": 125,
+  "sell": 150,
+  "icon": "🐟"
+ },
+ {
+  "id": "koncerva-vici",
+  "name": "Koncerva vici",
+  "category": "Të Tjera",
+  "buy": 330,
+  "sell": 380,
+  "icon": "🥫"
+ },
+ {
+  "id": "majonez",
+  "name": "Majonez",
+  "category": "Erza & Gatim",
+  "buy": 310,
+  "sell": 360,
+  "icon": "🥫"
+ },
+ {
+  "id": "jufka",
+  "name": "Jufka",
+  "category": "Bukë & Miell",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🍝"
+ },
+ {
+  "id": "cibuk-prima",
+  "name": "Cibuk prima",
+  "category": "Bukë & Miell",
+  "buy": 25,
+  "sell": 40,
+  "icon": "🍟"
+ },
+ {
+  "id": "cibuk-crax",
+  "name": "Cibuk crax",
+  "category": "Bukë & Miell",
+  "buy": 25,
+  "sell": 30,
+  "icon": "🍟"
+ },
+ {
+  "id": "kubeti",
+  "name": "Kubeti",
+  "category": "Të Tjera",
+  "buy": 30,
+  "sell": 40,
+  "icon": "🧁"
+ },
+ {
+  "id": "kinder-i-vogel",
+  "name": "Kinder i vogel",
+  "category": "Embelsira",
+  "buy": 70,
+  "sell": 80,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/000/008/017/7609/front_en.478.400.jpg"
+ },
+ {
+  "id": "patatina-reply",
+  "name": "Patatina reply",
+  "category": "Të Tjera",
+  "buy": 15,
+  "sell": 20,
+  "icon": "🍟"
+ },
+ {
+  "id": "vipa-3",
+  "name": "Vipa 3+",
+  "category": "Embelsira",
+  "buy": 88,
+  "sell": 100,
+  "icon": "🍬"
+ },
+ {
+  "id": "vipa-20g",
+  "name": "Vipa 20g",
+  "category": "Embelsira",
+  "buy": 16,
+  "sell": 20,
+  "icon": "🍬"
+ },
+ {
+  "id": "patatina-brrr",
+  "name": "Patatina Brrr",
+  "category": "Të Tjera",
+  "buy": 16,
+  "sell": 20,
+  "icon": "🍟"
+ },
+ {
+  "id": "top-futbolli",
+  "name": "Top futbolli",
+  "category": "Lodra",
+  "buy": 350,
+  "sell": 500,
+  "icon": "⚽"
+ },
+ {
+  "id": "top-volejbolli",
+  "name": "Top Volejbolli",
+  "category": "Lodra",
+  "buy": 350,
+  "sell": 500,
+  "icon": "⚽"
+ },
+ {
+  "id": "peroni",
+  "name": "Peroni",
+  "category": "Birra",
+  "buy": 89,
+  "sell": 120,
+  "icon": "🍺"
+ },
+ {
+  "id": "heineken",
+  "name": "Heineken",
+  "category": "Birra",
+  "buy": 115,
+  "sell": 140,
+  "icon": "🍺",
+  "image": "https://images.openfoodfacts.org/images/products/311/978/025/9625/front_fr.84.400.jpg"
+ },
+ {
+  "id": "peja",
+  "name": "Peja",
+  "category": "Birra",
+  "buy": 80,
+  "sell": 100,
+  "icon": "🍺"
+ },
+ {
+  "id": "elbar",
+  "name": "Elbar",
+  "category": "Birra",
+  "buy": 83,
+  "sell": 110,
+  "icon": "🍺"
+ },
+ {
+  "id": "qeruese-perimesh",
+  "name": "Qeruese Perimesh",
+  "category": "Të Tjera",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🧷"
+ },
+ {
+  "id": "furce-rroje",
+  "name": "Furce Rroje",
+  "category": "Të Tjera",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🪒"
+ },
+ {
+  "id": "kapse-rrobash",
+  "name": "Kapse Rrobash",
+  "category": "Aksesore Shtëpie",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🧷"
+ },
+ {
+  "id": "kapse-rrobash-piaza-plastico",
+  "name": "Kapse Rrobash Piaza Plastico",
+  "category": "Aksesore Shtëpie",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧷"
+ },
+ {
+  "id": "petrogaz-rimmed",
+  "name": "Petrogaz Rimmed",
+  "category": "Aksesore Shtëpie",
+  "buy": 850,
+  "sell": 1000,
+  "icon": "⛽"
+ },
+ {
+  "id": "llampa-rimmed-te-mdhaja",
+  "name": "Llampa Rimmed te mdhaja",
+  "category": "Aksesore Shtëpie",
+  "buy": 220,
+  "sell": 250,
+  "icon": "💡"
+ },
+ {
+  "id": "llampa-rimmed-te-vogla",
+  "name": "Llampa Rimmed te vogla",
+  "category": "Aksesore Shtëpie",
+  "buy": 200,
+  "sell": 230,
+  "icon": "💡"
+ },
+ {
+  "id": "llampa-alb",
+  "name": "Llampa Alb",
+  "category": "Aksesore Shtëpie",
+  "buy": 150,
+  "sell": 180,
+  "icon": "💡"
+ },
+ {
+  "id": "calgon",
+  "name": "Calgon",
+  "category": "Pije Freskuese",
+  "buy": 370,
+  "sell": 430,
+  "icon": "🧺",
+  "image": "https://images.openfoodfacts.org/images/products/425/175/841/0542/front_de.5.400.jpg"
+ },
+ {
+  "id": "vanish-roze",
+  "name": "Vanish Roze",
+  "category": "Të Tjera",
+  "buy": 320,
+  "sell": 400,
+  "icon": "🧺"
+ },
+ {
+  "id": "furce-dhembesh-codor",
+  "name": "Furce Dhembesh Codor",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🪥"
+ },
+ {
+  "id": "colgate-max-fresh",
+  "name": "Colgate Max Fresh",
+  "category": "Pije Freskuese",
+  "buy": 170,
+  "sell": 200,
+  "icon": "🪥"
+ },
+ {
+  "id": "colgate-max-white",
+  "name": "Colgate Max White",
+  "category": "Higjiene Personale",
+  "buy": 210,
+  "sell": 250,
+  "icon": "🪥"
+ },
+ {
+  "id": "az-extra-white",
+  "name": "Az Extra White",
+  "category": "Të Tjera",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🪥"
+ },
+ {
+  "id": "furce-mr-star",
+  "name": "Furce Mr.Star",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🪥"
+ },
+ {
+  "id": "furce-cobor-1-1",
+  "name": "Furce Cobor 1+1",
+  "category": "Të Tjera",
+  "buy": 200,
+  "sell": 250,
+  "icon": "🪥"
+ },
+ {
+  "id": "krem-nivea-blu",
+  "name": "Krem Nivea Blu",
+  "category": "Higjiene Personale",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧴"
+ },
+ {
+  "id": "nivea-soft",
+  "name": "Nivea Soft",
+  "category": "Higjiene Personale",
+  "buy": 320,
+  "sell": 360,
+  "icon": "🧴"
+ },
+ {
+  "id": "viking-blu",
+  "name": "Viking Blu",
+  "category": "Të Tjera",
+  "buy": 130,
+  "sell": 170,
+  "icon": "🧴"
+ },
+ {
+  "id": "intesa-styling",
+  "name": "Intesa Styling",
+  "category": "Të Tjera",
+  "buy": 210,
+  "sell": 250,
+  "icon": "🧴"
+ },
+ {
+  "id": "bioaktiv-3kg",
+  "name": "Bioaktiv 3kg",
+  "category": "Të Tjera",
+  "buy": 460,
+  "sell": 550,
+  "icon": "🧺"
+ },
+ {
+  "id": "deka-3kg",
+  "name": "Deka 3kg",
+  "category": "Pastrim",
+  "buy": 800,
+  "sell": 950,
+  "icon": "🧺"
+ },
+ {
+  "id": "ariel-1-5kg",
+  "name": "Ariel 1.5kg",
+  "category": "Pastrim",
+  "buy": 550,
+  "sell": 700,
+  "icon": "🧺"
+ },
+ {
+  "id": "bonux",
+  "name": "Bonux",
+  "category": "Pastrim",
+  "buy": 320,
+  "sell": 480,
+  "icon": "🧺"
+ },
+ {
+  "id": "acid-titan",
+  "name": "Acid Titan",
+  "category": "Pastrim",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧺"
+ },
+ {
+  "id": "titan-grasatore",
+  "name": "Titan Grasatore",
+  "category": "Pastrim",
+  "buy": 250,
+  "sell": 300,
+  "icon": "🧺"
+ },
+ {
+  "id": "vim",
+  "name": "Vim",
+  "category": "Pastrim",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧽"
+ },
+ {
+  "id": "cif",
+  "name": "Cif",
+  "category": "Pastrim",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧽"
+ },
+ {
+  "id": "disefektant",
+  "name": "Disefektant",
+  "category": "Të Tjera",
+  "buy": 400,
+  "sell": 450,
+  "icon": "🧽"
+ },
+ {
+  "id": "peruoll",
+  "name": "Peruoll",
+  "category": "Pastrim",
+  "buy": 500,
+  "sell": 650,
+  "icon": "🧽"
+ },
+ {
+  "id": "rampart-biscuits",
+  "name": "Rampart Biscuits",
+  "category": "Të Tjera",
+  "buy": 115,
+  "sell": 150,
+  "icon": "🍪"
+ },
+ {
+  "id": "pampart-cakes-biscuits",
+  "name": "Pampart Cakes Biscuits",
+  "category": "Të Tjera",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🍪"
+ },
+ {
+  "id": "bonbone-gledis",
+  "name": "Bonbone Gledis",
+  "category": "Të Tjera",
+  "buy": 280,
+  "sell": 320,
+  "icon": "🍬"
+ },
+ {
+  "id": "cokollat-biscuits-gledis",
+  "name": "Cokollat Biscuits Gledis",
+  "category": "Embelsira",
+  "buy": 130,
+  "sell": 160,
+  "icon": "🍫"
+ },
+ {
+  "id": "biskota-dietike",
+  "name": "Biskota Dietike",
+  "category": "Embelsira",
+  "buy": 100,
+  "sell": 130,
+  "icon": "🍪"
+ },
+ {
+  "id": "saviardi",
+  "name": "Saviardi",
+  "category": "Të Tjera",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🍪"
+ },
+ {
+  "id": "miell-top",
+  "name": "Miell Top",
+  "category": "Bukë & Miell",
+  "buy": 77,
+  "sell": 100,
+  "icon": "🌾"
+ },
+ {
+  "id": "niseshte-diamond",
+  "name": "Niseshte Diamond",
+  "category": "Erza & Gatim",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🌾"
+ },
+ {
+  "id": "tershere",
+  "name": "Tershere",
+  "category": "Të Tjera",
+  "buy": 110,
+  "sell": 140,
+  "icon": "📦"
+ },
+ {
+  "id": "thjerza-torono",
+  "name": "Thjerza Torono",
+  "category": "Të Tjera",
+  "buy": 125,
+  "sell": 150,
+  "icon": "🧂"
+ },
+ {
+  "id": "cibuk-eti-susam",
+  "name": "Cibuk Eti Susam",
+  "category": "Bukë & Miell",
+  "buy": 30,
+  "sell": 40,
+  "icon": "🍟"
+ },
+ {
+  "id": "cibuk-eti-pikant",
+  "name": "Cibuk Eti Pikant",
+  "category": "Bukë & Miell",
+  "buy": 35,
+  "sell": 50,
+  "icon": "🍟"
+ },
+ {
+  "id": "napolitan-cubs",
+  "name": "Napolitan Cubs",
+  "category": "Embelsira",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🧁"
+ },
+ {
+  "id": "farsoleta",
+  "name": "Farsoleta",
+  "category": "Të Tjera",
+  "buy": 25,
+  "sell": 40,
+  "icon": "🍚"
+ },
+ {
+  "id": "bonbina-te-vogla",
+  "name": "Bonbina te vogla",
+  "category": "Të Tjera",
+  "buy": 100,
+  "sell": 150,
+  "icon": "🍬"
+ },
+ {
+  "id": "bonbina-mesatare",
+  "name": "Bonbina mesatare",
+  "category": "Të Tjera",
+  "buy": 200,
+  "sell": 250,
+  "icon": "🍬"
+ },
+ {
+  "id": "bonbina-te-medhaja",
+  "name": "Bonbina te medhaja",
+  "category": "Të Tjera",
+  "buy": 220,
+  "sell": 270,
+  "icon": "🍬"
+ },
+ {
+  "id": "letra-higjenike",
+  "name": "Letra Higjenike",
+  "category": "Të Tjera",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🧻"
+ },
+ {
+  "id": "pampersa-sibora",
+  "name": "Pampersa Sibora",
+  "category": "Femije",
+  "buy": 430,
+  "sell": 500,
+  "icon": "🧻"
+ },
+ {
+  "id": "djath-bebe",
+  "name": "Djath bebe",
+  "category": "Qumësht & Djathë",
+  "buy": 125,
+  "sell": 150,
+  "icon": "🧀"
+ },
+ {
+  "id": "ketchap",
+  "name": "Ketchap",
+  "category": "Të Tjera",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🥫"
+ },
+ {
+  "id": "komposto-pjeshke",
+  "name": "Komposto Pjeshke",
+  "category": "Të Tjera",
+  "buy": 170,
+  "sell": 200,
+  "icon": "🥤"
+ },
+ {
+  "id": "komposto-kumbulle",
+  "name": "Komposto Kumbulle",
+  "category": "Të Tjera",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🥤"
+ },
+ {
+  "id": "mjalt-industrial",
+  "name": "Mjalt Industrial",
+  "category": "Të Tjera",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🍯"
+ },
+ {
+  "id": "ullinj",
+  "name": "Ullinj",
+  "category": "Erza & Gatim",
+  "buy": 160,
+  "sell": 200,
+  "icon": "🫒"
+ },
+ {
+  "id": "ullinj-me-mbushje",
+  "name": "Ullinj me mbushje",
+  "category": "Erza & Gatim",
+  "buy": 180,
+  "sell": 220,
+  "icon": "🫒"
+ },
+ {
+  "id": "salc-diamond",
+  "name": "Salc Diamond",
+  "category": "Erza & Gatim",
+  "buy": 130,
+  "sell": 160,
+  "icon": "🥫"
+ },
+ {
+  "id": "salc-ana",
+  "name": "Salc Ana",
+  "category": "Erza & Gatim",
+  "buy": 135,
+  "sell": 170,
+  "icon": "🥫"
+ },
+ {
+  "id": "uthull-molle",
+  "name": "Uthull Molle",
+  "category": "Erza & Gatim",
+  "buy": 120,
+  "sell": 150,
+  "icon": "🥫"
+ },
+ {
+  "id": "vaj-ulliri-luna",
+  "name": "Vaj Ulliri Luna",
+  "category": "Erza & Gatim",
+  "buy": 165,
+  "sell": 200,
+  "icon": "🫒"
+ },
+ {
+  "id": "molto-reply",
+  "name": "Molto Reply",
+  "category": "Embelsira",
+  "buy": 25,
+  "sell": 30,
+  "icon": "🍟"
+ },
+ {
+  "id": "belino",
+  "name": "Belino",
+  "category": "Të Tjera",
+  "buy": 49,
+  "sell": 60,
+  "icon": "🧁"
+ },
+ {
+  "id": "mini-croissant",
+  "name": "Mini-croissant",
+  "category": "Cajra & Lëngje",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🧁"
+ },
+ {
+  "id": "molto-bono",
+  "name": "Molto bono",
+  "category": "Embelsira",
+  "buy": 50,
+  "sell": 60,
+  "icon": "🧁"
+ },
+ {
+  "id": "bake-rolls",
+  "name": "Bake-Rolls",
+  "category": "Pasticeri",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🍞"
+ },
+ {
+  "id": "bruschete-mareti",
+  "name": "Bruschete Mareti",
+  "category": "Të Tjera",
+  "buy": 70,
+  "sell": 90,
+  "icon": "🍞"
+ },
+ {
+  "id": "biskrem-fishek",
+  "name": "Biskrem fishek",
+  "category": "Embelsira",
+  "buy": 65,
+  "sell": 80,
+  "icon": "🍪"
+ },
+ {
+  "id": "biskrem-qese",
+  "name": "Biskrem qese",
+  "category": "Embelsira",
+  "buy": 100,
+  "sell": 120,
+  "icon": "🍪"
+ },
+ {
+  "id": "albeni-qese",
+  "name": "Albeni qese",
+  "category": "Embelsira",
+  "buy": 100,
+  "sell": 120,
+  "icon": "🍪"
+ },
+ {
+  "id": "crako",
+  "name": "Crako",
+  "category": "Embelsira",
+  "buy": 65,
+  "sell": 80,
+  "icon": "🍞"
+ },
+ {
+  "id": "maja-buke-e-madhe",
+  "name": "Maja Buke e madhe",
+  "category": "Bukë & Miell",
+  "buy": 240,
+  "sell": 260,
+  "icon": "🌾"
+ },
+ {
+  "id": "maja-buke-e-vogel",
+  "name": "Maja Buke e vogel",
+  "category": "Bukë & Miell",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🌾"
+ },
+ {
+  "id": "caj-kamomil",
+  "name": "Caj Kamomil",
+  "category": "Cajra & Lëngje",
+  "buy": 190,
+  "sell": 220,
+  "icon": "🍵"
+ },
+ {
+  "id": "caj-boronice",
+  "name": "Caj Boronice",
+  "category": "Cajra & Lëngje",
+  "buy": 220,
+  "sell": 250,
+  "icon": "🍵"
+ },
+ {
+  "id": "krip-me-erza",
+  "name": "Krip me erza",
+  "category": "Erza & Gatim",
+  "buy": 125,
+  "sell": 150,
+  "icon": "🧂"
+ },
+ {
+  "id": "kinder-bueno",
+  "name": "Kinder Bueno",
+  "category": "Embelsira",
+  "buy": 78,
+  "sell": 100,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/000/008/005/2760/front_en.719.400.jpg"
+ },
+ {
+  "id": "cokollat-mars",
+  "name": "Cokollat Mars",
+  "category": "Embelsira",
+  "buy": 80,
+  "sell": 100,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/590/095/131/1468/front_fr.20.400.jpg"
+ },
+ {
+  "id": "cokollat-bounty",
+  "name": "Cokollat Bounty",
+  "category": "Embelsira",
+  "buy": 90,
+  "sell": 100,
+  "icon": "🍫"
+ },
+ {
+  "id": "biskota-duo",
+  "name": "Biskota Duo",
+  "category": "Embelsira",
+  "buy": 185,
+  "sell": 220,
+  "icon": "🍪"
+ },
+ {
+  "id": "pringles-i-madh",
+  "name": "Pringles I madh",
+  "category": "Të Tjera",
+  "buy": 190,
+  "sell": 250,
+  "icon": "🍟",
+  "image": "https://images.openfoodfacts.org/images/products/505/399/015/6009/front_fr.288.400.jpg"
+ },
+ {
+  "id": "pringles-i-vogel",
+  "name": "Pringles I vogel",
+  "category": "Të Tjera",
+  "buy": 125,
+  "sell": 150,
+  "icon": "🍟",
+  "image": "https://images.openfoodfacts.org/images/products/505/399/010/7339/front_de.256.400.jpg"
+ },
+ {
+  "id": "sode-buke-teuta",
+  "name": "Sode Buke Teuta",
+  "category": "Bukë & Miell",
+  "buy": 35,
+  "sell": 50,
+  "icon": "🍞"
+ },
+ {
+  "id": "peta-lasanja",
+  "name": "Peta Lasanja",
+  "category": "Bukë & Miell",
+  "buy": 260,
+  "sell": 290,
+  "icon": "🍝"
+ },
+ {
+  "id": "kos-lufra",
+  "name": "Kos Lufra",
+  "category": "Qumësht & Djathë",
+  "buy": 40,
+  "sell": 170,
+  "icon": "🥛"
+ },
+ {
+  "id": "salc-lula",
+  "name": "Salc Lula",
+  "category": "Erza & Gatim",
+  "buy": 140,
+  "sell": 160,
+  "icon": "🥫"
+ },
+ {
+  "id": "djath-danez",
+  "name": "Djath Danez",
+  "category": "Qumësht & Djathë",
+  "buy": 330,
+  "sell": 350,
+  "icon": "🧀"
+ },
+ {
+  "id": "qumesht-late",
+  "name": "Qumesht Late",
+  "category": "Thatë & Konservuar",
+  "buy": 155,
+  "sell": 180,
+  "icon": "🥛"
+ },
+ {
+  "id": "arra",
+  "name": "Arra",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🥜"
+ },
+ {
+  "id": "rrush-i-thate",
+  "name": "Rrush i Thate",
+  "category": "Të Tjera",
+  "buy": 45,
+  "sell": 80,
+  "icon": "🥜"
+ },
+ {
+  "id": "sticka",
+  "name": "Sticka",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🍟"
+ },
+ {
+  "id": "bajame",
+  "name": "Bajame",
+  "category": "Të Tjera",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🥜"
+ },
+ {
+  "id": "rigon",
+  "name": "Rigon",
+  "category": "Pije Freskuese",
+  "buy": 15,
+  "sell": 30,
+  "icon": "🧂"
+ },
+ {
+  "id": "piper",
+  "name": "Piper",
+  "category": "Erza & Gatim",
+  "buy": 15,
+  "sell": 30,
+  "icon": "🧂"
+ },
+ {
+  "id": "kola-shishe",
+  "name": "Kola shishe",
+  "category": "Pije Freskuese",
+  "buy": 125,
+  "sell": 160,
+  "icon": "🥤"
+ },
+ {
+  "id": "fanta-portokall-shishe",
+  "name": "Fanta portokall shishe",
+  "category": "Pije Freskuese",
+  "buy": 125,
+  "sell": 160,
+  "icon": "🥤",
+  "image": "https://images.openfoodfacts.org/images/products/544/900/005/2926/front_en.83.400.jpg"
+ },
+ {
+  "id": "fanta-ekzotik-shishe",
+  "name": "Fanta ekzotik shishe",
+  "category": "Pije Freskuese",
+  "buy": 125,
+  "sell": 160,
+  "icon": "🥤"
+ },
+ {
+  "id": "makarona-misko",
+  "name": "Makarona misko",
+  "category": "Bukë & Miell",
+  "buy": 120,
+  "sell": 140,
+  "icon": "🍝"
+ },
+ {
+  "id": "makarona-prima",
+  "name": "Makarona prima",
+  "category": "Bukë & Miell",
+  "buy": 75,
+  "sell": 100,
+  "icon": "🍝"
+ },
+ {
+  "id": "makarona-divella",
+  "name": "Makarona divella",
+  "category": "Bukë & Miell",
+  "buy": 80,
+  "sell": 100,
+  "icon": "🍝",
+  "image": "https://images.openfoodfacts.org/images/products/800/512/100/0085/front_en.40.400.jpg"
+ },
+ {
+  "id": "oriz-gold-i-lire",
+  "name": "Oriz gold i lire",
+  "category": "Bukë & Miell",
+  "buy": 90,
+  "sell": 120,
+  "icon": "🍚"
+ },
+ {
+  "id": "oriz-gold-i-shtrenjte",
+  "name": "Oriz gold i shtrenjte",
+  "category": "Bukë & Miell",
+  "buy": 190,
+  "sell": 220,
+  "icon": "🍚"
+ },
+ {
+  "id": "oriz-perla",
+  "name": "Oriz perla",
+  "category": "Bukë & Miell",
+  "buy": 150,
+  "sell": 180,
+  "icon": "🍚"
+ },
+ {
+  "id": "bravo-pjeshke-shishe",
+  "name": "Bravo pjeshke shishe",
+  "category": "Pije Freskuese",
+  "buy": 135,
+  "sell": 160,
+  "icon": "🥤"
+ },
+ {
+  "id": "bravo-molle-shishe",
+  "name": "Bravo molle shishe",
+  "category": "Pije Freskuese",
+  "buy": 135,
+  "sell": 160,
+  "icon": "🥤"
+ },
+ {
+  "id": "lays",
+  "name": "Lays",
+  "category": "Embelsira",
+  "buy": 50,
+  "sell": 60,
+  "icon": "🍟"
+ },
+ {
+  "id": "chips",
+  "name": "Chips",
+  "category": "Embelsira",
+  "buy": 40,
+  "sell": 50,
+  "icon": "🍟"
+ },
+ {
+  "id": "kikirik-blu",
+  "name": "Kikirik blu",
+  "category": "Embelsira",
+  "buy": 90,
+  "sell": 110,
+  "icon": "🥜"
+ },
+ {
+  "id": "snikers",
+  "name": "Snikers",
+  "category": "Embelsira",
+  "buy": 55,
+  "sell": 70,
+  "icon": "🍫",
+  "image": "https://images.openfoodfacts.org/images/products/590/095/131/1505/front_en.266.400.jpg"
+ },
+ {
+  "id": "luna",
+  "name": "Luna",
+  "category": "Embelsira",
+  "buy": 30,
+  "sell": 40,
+  "icon": "🍫"
+ },
+ {
+  "id": "twingo",
+  "name": "Twingo",
+  "category": "Embelsira",
+  "buy": 8,
+  "sell": 10,
+  "icon": "🍫"
+ },
+ {
+  "id": "kris-kros",
+  "name": "Kris kros",
+  "category": "Embelsira",
+  "buy": 8,
+  "sell": 10,
+  "icon": "🍟"
+ },
+ {
+  "id": "slims",
+  "name": "Slims",
+  "category": "Të Tjera",
+  "buy": 275,
+  "sell": 300,
+  "icon": "🚬"
+ },
+ {
+  "id": "bisktoa-piknik",
+  "name": "Bisktoa Piknik",
+  "category": "Të Tjera",
+  "buy": 15,
+  "sell": 30,
+  "icon": "🍪"
+ }
+]
